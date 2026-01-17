@@ -54,9 +54,10 @@ Path related to the Nutcracker website
 * [Complex status.pdf](./Artemis/Complex%20status.pdf.jpg) - d8b38b3a00838adbb0c130501687ed1c
 
 ### loops -1
-* [SBS4](./Browser/archive.corie/SBS4.png) - 3fb198c10b6d4963e85b4dbd82b71f1b
-* [Project 'Demeter'](./Browser/archive.corie/Project%20'Demeter'.jpg) - 0de3e86ba0c29b423cb465e3f1c5d9f8
+* [SBS4](./Project%20Demeter/SBS4.png) - 3fb198c10b6d4963e85b4dbd82b71f1b
+* [Project 'Demeter'](./Project%20Demeter/Project%20'Demeter'.jpg) - 0de3e86ba0c29b423cb465e3f1c5d9f8
 * [[unnamed image]](./Messenger/V3%20News/adf10cce763ac7be4296883546be6838.jpg) - adf10cce763ac7be4296883546be6838
+* [Gobbler](./Messenger/CORIE%20DATABASE/Gobbler.jpg) - 31736d49434a6a56fccf2e20306cbb40
 
 ### loops 4
 * [XM5_A.png](./Reports/XM5_A.png.jpg) - the_day_of_doom

@@ -8,7 +8,7 @@
 | Company | CORE Arms |
 | Occupancy | Sales Department |
 | Rank | Spokesman |
-| User ID | -- |
+| User ID | {{019a0c23-7c95-7ffc-adad-8f7a33400f26}} |
 | Account Status | Active |
 
 ## Note

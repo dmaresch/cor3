@@ -1,0 +1,1 @@
+Using the command `FILE Gobbler` after talking to [Thomas Albertson](/Persons/Thomas%20Albertson/) opens the [Gobbler](./Gobbler.jpg) file.
