@@ -1,3 +1,4 @@
+People who's profiles display an UUID in their `User ID` field:
 * [Anton Vedernikov](./Anton%20Vedernikov/)
 * [Augustus Nordman](./Augustus%20Nordman/) - related to [Reports/OPS_Archive.txt](/Reports/OPS_Archive.txt)
 * [Demeter Muggabee](./Demeter%20Muggabee/)

@@ -39,6 +39,8 @@ Posts: 14
 
 > [!IMPORTANT]
 > The "Server location" code is different for each user and this is just an example value.
+>
+> The token may contain some ambiguous-looking characters such as `0`/`O` and `l`/`1`, so it's advised to copy it directly using the browser's DevTools.
 
 ---
 
