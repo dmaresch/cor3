@@ -53,5 +53,6 @@ The only question is where that stuff is produced, and what products might have 
 I need to check the news channels, maybe someone wrote about something similar.
 
 #### Next Steps
-Another lead, and once again it’s Mars. That place keeps its secrets tight. I need to keep looking, there are yet few things that I can still chase down
+Another lead, and once again it’s Mars. That place keeps its secrets tight. I need to keep looking, there are yet few things that I can still chase down.
 
+New custom content
