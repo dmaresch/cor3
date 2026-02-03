@@ -93,9 +93,10 @@ The [Browser](./Browser/) folder is not an actual folder on the desktop, just ho
 
 The [MR-7-Media-reader-78x](./MR-7-Media-reader-78x/) folder is also not an actual folder, but houses things found on the storage device once it's repaired/decrypted.
 
-After solving all 4 loops, an option to buy a ticket to a ship to Mars appears.
+After solving all 4 loops, an option to buy a ticket to a ship to Mars appears.  
+
 ![banner-status-ready](./banner-status-ready.png) → ![banner-status-incoming](./banner-status-incoming.png)
 
-Clicking the banner leads to ↓
-## https://m7.repnodemassive.tech/
-which has a countdown to Sunday, February 1, 2026 15:00:00 GMT.
+Clicking the banner leads to a new site https://m7.repnodemassive.tech/, which displayed a countdown to Sunday, February 1, 2026 15:00:00 GMT. After the countdown ended, the https://www.youtube.com/watch?v=X9kqyqswsL8 video showed up.
+
+At the same time the loops in Act 2 started.
