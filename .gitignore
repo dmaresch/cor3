@@ -1,1 +1,7 @@
+# util scripts
 /util
+
+# unpolished data
+*.html
+*.json
+*.js
