@@ -19,6 +19,17 @@ For clarity, here is an excerpt of a typical MR-7 log during media insertion, be
 
 ```
 [00:00:00.001] SYS:BOOT  Reader instance v2.8.19 starting...
+[00:00:00.003] SYS:INFO  Subsystems online: BUS, IO, SMART, RAW 
+[00:00:00.005] BUS:INFO  Link negotiation: uSSD  -> UDB-4 bridge 
+[00:00:00.006] BUS:INFO  Speed 10.0 Gbps (fallback 5.0 Gbps) 
+[00:00:00.008] BUS:INFO  Lane integrity OK (BER = 1.4e-12) 
+[00:00:00.010] BUS:INFO  DMA mode UDMA7 enabled [00:00:00.012] BUS:INFO  Interface negotiated successfully 
+[00:00:00.014] DEV:INFO  Device handshake initiated... 
+[00:00:00.015] DEV:INFO  Model – MR-7 Media Reader 78x 
+[00:00:00.016] DEV:INFO  Manufacturer – CORETECH INC. 
+[00:00:00.018] DEV:INFO  OS name – coretech_infodisk_batch4corp 
+[00:00:00.019] DEV:INFO  Sec. footprint – CORE-CADL-BASIC 
+[00:00:00.021] FS:INFO  Mounting file system... 
 ```
 
 The above log (from the built-in viewer, shown in Figure 4.3 later) confirms that the MR-7 has successfully established communication at 10 Gbps (the device fell back to 5 Gbps if needed, indicating it supports USB7 speeds but can downshift to maintain a stable connection). The Bit Error Rate (BER) of 1.4×10^-12 indicates a clean link (BER below 1e-12 is excellent for high-speed serial links). DMA mode UDMA7 suggests ultra-DMA transfers are enabled for efficient data throughput, a detail from the COR3 uSSD interface specification (Appendix E covers interface specs like UDB-4 and UDMA modes).
