@@ -87,6 +87,12 @@ Path related to the Nutcracker website
 * [Search Party Report](./Search%20Party%20Report.png) - [erbhjrekbhtrkjhckjehbkjrhvjkekbjrh](https://cdn.cor3.gg/corie/loops/acts/2/fdhkjgerhvekjwhcewkjhkjre/erbhjrekbhtrkjhckjehbkjrhvjkekbjrh.png)
 * [Police Report - Missing Person](./Police%20Report%20-%20Missing%20Person.webp) - [43klhgherjkvhrbkjrvntlrkjhvlerkvre](https://cdn.cor3.gg/corie/loops/acts/2/fdhkjgerhvekjwhcewkjhkjre/43klhgherjkvhrbkjrvntlrkjhvlerkvre.webp)
 
+* [Investigation Result (Classified)](./Investigation%20Result%20(Classified).png) - [sdghgkjsjdnvkjdhbjkevhwekjberbrehlbjklkjglfbd](https://cdn.cor3.gg/corie/loops/acts/2/fdhkjgerhvekjwhcewkjhkjre/sdghgkjsjdnvkjdhbjkevhwekjberbrehlbjklkjglfbd.png)
+
+#### wegjlkshvkjdfbhjkfdvhcskjchds
+
+* [FIDhhgnr](./FIDhhgnr.png) - [FIDhhgnrjbgASUIETHSGmgSJFDBGsiertwe](https://cdn.cor3.gg/corie/loops/acts/2/wegjlkshvkjdfbhjkfdvhcskjchds/FIDhhgnrjbgASUIETHSGmgSJFDBGsiertwe.png)
+
 ## timeline
 * [sfx__004___a](/MR-7-Media-reader-78x/sfx__004___a.png) [12_lunacolony_security](https://cdn.cor3.gg/corie/timeline/12_lunacolony_security.png)
 
