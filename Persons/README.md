@@ -15,3 +15,10 @@ People who's profiles display an UUID in their `User ID` field:
 * [Solomon Sandman](./Solomon%20Sandman/)
 * [Solomon Zhao](./Solomon%20Zhao/)
 * [Thomas Albertson](./Thomas%20Albertson/)
+* [Vladimir Semakin](./Vladimir%20Semakin/) - he adds you automatically, it's not necessary (nor possible) to add him
+
+People with a red 6-digit ID who can not be added as a contact in the messenger:
+* [Suzanna Flanders](./Suzanna%20Flanders/)
+* [Cassius Maelstrom](./Cassius%20Maelstrom/)
+* [James Curtis Fung](./James%20Curtis%20Fung/)
+* [Jean Flanders](./Jean%20Flanders/)
