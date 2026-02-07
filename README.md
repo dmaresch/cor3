@@ -76,6 +76,9 @@ Path related to the Nutcracker website
 
 ### loops acts 2
 #### 200
+* [SM_Core_Tech_Info_Disk_01.png](./MR-7-Media-reader-78x/SM_Core_Tech_Info_Disk_01.png) - [SM_Core_Tech_Info_Disk_01](https://cdn.cor3.gg/corie/loops/acts/2/200/SM_Core_Tech_Info_Disk_01.png)
+* [SM_Core_Tech_Info_Disk_01.glb](./MR-7-Media-reader-78x/SM_Core_Tech_Info_Disk_01.glb) - [SM_Core_Tech_Info_Disk_01](https://cdn.cor3.gg/corie/loops/acts/2/200/SM_Core_Tech_Info_Disk_01.png)
+
 ##### timelines 1
 * [a9f3c1_0047](./MR-7-Media-reader-78x/a9f3c1_0047.mp4) - [kljrehg43oigh34ibj323oi54jb4l5kj32](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/kljrehg43oigh34ibj323oi54jb4l5kj32.mp4)
 * [fe_55_gdr](./MR-7-Media-reader-78x/fe_55_gdr.mp3) - [5hlkj43klt43loj45oibj5iocjewiocjeoribv](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/5hlkj43klt43loj45oibj5iocjewiocjeoribv.mp3)

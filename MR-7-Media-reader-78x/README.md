@@ -1,3 +1,9 @@
+When the device is first connected, a log is shown; archived in [boot.md](./boot.md).
+
+
+## Timeline
+Fragments on the timeline: 
+
 1. [a9f3c1_0047](./a9f3c1_0047.mp4)
 2. x17c_92aa - locked video
 3. [fe_55_gdr](./fe_55_gdr.mp3) - 2027 https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/5hlkj43klt43loj45oibj5iocjewiocjeoribv.mp3
