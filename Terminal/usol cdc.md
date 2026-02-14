@@ -6,7 +6,7 @@ The following text gets printed to the terminal upon connecting
 > AUTH OK  
 > Archive index mounted  
 > A9_17B  
-> SKL_041  
+> SKL_O41  
 > REC_A3  
 > NT_FG22  
 > OPS221X  
