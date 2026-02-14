@@ -30,6 +30,10 @@ Tutorial
 ### loops 1
 Path related to the damaged document and Simon Webb
 * [B@-@%@%^^](./B@-@%25@%25^^.jpg) - damaged_document
+* [coupling_analysis.png](./Browser/viibot.corie/archives/report/coupling_analysis.png) - [coupling_analysis.png](https://os.cor3.gg/images/coupling_analysis.png)
+* [test_results.png](./Browser/viibot.corie/archives/report/test_results.png) - [test_results.png](https://os.cor3.gg/images/test_results.png)
+* [magnetic_anomaly.png](./Browser/viibot.corie/archives/report/magnetic_anomaly.png) - [magnetic_anomaly.png](https://os.cor3.gg/images/magnetic_anomaly.png)
+* [container_markings.png](./Browser/viibot.corie/archives/report/container_markings.png) - [container_markings.png](https://os.cor3.gg/images/container_markings.png)
 
 ### loops 2
 Path related to the Nutcracker website
@@ -55,19 +59,19 @@ Path related to the Nutcracker website
 * [Project Artemis.pdf](./Artemis/Project%20Artemis.pdf.jpg) - 11f11a379d28540fda414b2e18d35ecc
 * [Complex status.pdf](./Artemis/Complex%20status.pdf.jpg) - d8b38b3a00838adbb0c130501687ed1c
 
-### loops -1
-* [SBS4](./Project%20Demeter/SBS4.png) - 3fb198c10b6d4963e85b4dbd82b71f1b
-* [Project 'Demeter'](./Project%20Demeter/Project%20'Demeter'.jpg) - 0de3e86ba0c29b423cb465e3f1c5d9f8
-* [[unnamed image]](./Messenger/V3%20News/adf10cce763ac7be4296883546be6838.jpg) - adf10cce763ac7be4296883546be6838
-* [Gobbler](./Messenger/CORIE%20DATABASE/Gobbler.jpg) - 31736d49434a6a56fccf2e20306cbb40
-* [[unnamed image]](./Messenger/Augustus%20Nordman/skylift_photo.jpg) - skylift_photo
-
 ### loops 4
 * [XM5_A.png](./Reports/XM5_A.png.jpg) - the_day_of_doom
 * [Operation "Tripe".png](./Reports/Operation%20_Tripe_.png) - operation_tripe
 * [L041.png](./Reports/L041.png) - usol_aar_report
 * [Report, Z.5815.pdf](./Reports/Report,%20Z.5815.pdf.jpg) - report_z
 * [Report_E.pdf](./Reports/Report_E.pdf.png) - report_e
+
+### loops -1
+* [SBS4](./Project%20Demeter/SBS4.png) - 3fb198c10b6d4963e85b4dbd82b71f1b
+* [Project 'Demeter'](./Project%20Demeter/Project%20'Demeter'.jpg) - 0de3e86ba0c29b423cb465e3f1c5d9f8
+* [[unnamed image]](./Messenger/V3%20News/adf10cce763ac7be4296883546be6838.jpg) - adf10cce763ac7be4296883546be6838
+* [Gobbler](./Messenger/CORIE%20DATABASE/Gobbler.jpg) - 31736d49434a6a56fccf2e20306cbb40
+* [[unnamed image]](./Messenger/Augustus%20Nordman/skylift_photo.jpg) - skylift_photo
 
 ### m7.repnodemassive
 * [tvlines.mp4](./repnodemassive/tvlines.mp4)
