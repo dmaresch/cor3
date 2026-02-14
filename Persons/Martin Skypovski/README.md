@@ -8,9 +8,10 @@
 | Company | Unemployed |
 | Occupancy | Security Consultant |
 | Rank | Colonel |
-| User ID | 967287 |
+| User ID | {{019a9705-4ff0-7d3f-a6c0-994a753d91fe}} |
 | Account Status | Active |
 
 ## Note
-
 Ex-USOL CDC, policeman. The guy knows some secrets. Profile photo taken around 2100 looks like. Dude is old now …
+
+![](https://cdn.cor3.gg/corie/characters/avatars/martin_skypovski_avatar.png)
