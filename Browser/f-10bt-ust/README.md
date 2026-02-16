@@ -21,3 +21,5 @@ Using the Vigenere key `command` only on the second line gives
 ```
     activate_site_forcibly --parbfdgrtw=
 ```
+
+Entering the password that [Vladimir Semakin](/Messenger/Vladimir%20Semakin/) provides in his messages into the password box on this site downloads the files [Investigation Result (Classified).png](/Investigation%20Result%20(Classified).png) and [Additional information](/Additional%20information.md) to your desktop.
