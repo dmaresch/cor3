@@ -12,5 +12,6 @@
 | Account Status | Active |
 
 ## Note
-
 Former Brother from Mars. Has a bounty on his head. Knows about SBS4.
+
+![](https://cdn.cor3.gg/corie/characters/avatars/seamus_j_malkob_avatar.png)

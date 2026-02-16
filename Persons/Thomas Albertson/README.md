@@ -14,3 +14,5 @@
 ## Note
 
 Seems arrogant. A little bit of flattery, and who knows …
+
+![](https://cdn.cor3.gg/corie/characters/avatars/thomas_albertson_avatar.png)

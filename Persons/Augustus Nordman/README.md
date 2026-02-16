@@ -12,6 +12,6 @@
 | Account Status | Active |
 
 ## Note
-That one got promoted _ might be my chance. Talking to ex-CI is risky thought _
+That one got promoted … might be my chance. Talking to ex-CI is risky though …
 
 ![](https://cdn.cor3.gg/corie/characters/avatars/augustus_nordman_avatar.png)
