@@ -97,6 +97,8 @@ Path related to the Nutcracker website
 * [snd_44100_aa19](./MR-7-Media-reader-78x/snd_44100_aa19.mp4) - [pmo6j5049u2398vh329h4toijk43chkj](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/pmo6j5049u2398vh329h4toijk43chkj.mp4)
 * [v_02c9_err](./MR-7-Media-reader-78x/v_02c9_err.mp4) - [rtlnjlkvjlk34j56nj6576pj5bl5khv4l5khc4e4](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/rtlnjlkvjlk34j56nj6576pj5bl5khv4l5khc4e4.mp4)
 * [rec_19_11_00](./MR-7-Media-reader-78x/rec_19_11_00.mp3) - [43jo5jbklerfjvlkecjoi3hj56kln5jlkbv4jkjv4](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/43jo5jbklerfjvlkecjoi3hj56kln5jlkbv4jkjv4.mp3)
+* [sfx__004___a](./MR-7-Media-reader-78x/sfx__004___a.png) - [hljrelewjblkrjclkjglbkfjdflkvjlkfgjnlbkdscjlkhdlv](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/hljrelewjblkrjclkjglbkfjdflkvjlkfgjnlbkdscjlkhdlv.png)
+* [pxl_aa7719](./MR-7-Media-reader-78x/pxl_aa7719.mp4) - [bfjkdhdkjfhvkjdfchkjfhgbkjgfdhckjsdhvgkfjbdfvkhdjk](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/bfjkdhdkjfhvkjdfchkjfhgbkjgfdhckjsdhvgkfjbdfvkhdjk.mp4)
 * [capture__lost_003](./MR-7-Media-reader-78x/capture__lost_003.png) - [dgkldshvdlkshvkjdhbfdkjchdsjkvhdfjkb](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/dgkldshvdlkshvkjdhbfdkjchdsjkvhdfjkb.png)
 * [17_noise_b_441_02](./MR-7-Media-reader-78x/17_noise_b_441_02.png) - [erjohg43jongh4j3kbcjk3hnjkefvhrfjkerv](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/erjohg43jongh4j3kbcjk3hnjkefvhrfjkerv.png)
 * [img_cache_f91](./MR-7-Media-reader-78x/img_cache_f91.mp4) - [lktntjbklerjhvlk43h4jk3hvkj23hckj4h5bkj4b](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/lktntjbklerjhvlk43h4jk3hvkj23hckj4h5bkj4b.mp4)
