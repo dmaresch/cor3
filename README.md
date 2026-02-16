@@ -11,9 +11,9 @@ ARG related to the launch of cor3.gg
 * [Cargo.png](./Browser/viibot.corie/Cargo.png.jpg) [BKaNviG_](https://os.cor3.gg/assets/Cargo.png.BKaNviG_.jpg)
 * [Biofarms](./Browser/forum.corie/Biofarms.jpg) [B0JfPtEO](https://os.cor3.gg/assets/Biofarms.B0JfPtEO.jpg)
 * [Goodies](./Browser/forum.corie/Goodies.png.jpg) [nbUL9XqW](https://os.cor3.gg/assets/Goodies.png.nbUL9XqW.jpg)
-* [FRAGO_missilesilo_09](./Browser/trade-shipment.corie/FRAGO_missilesilo_09.jpg) [DXef9zha](https://os.cor3.gg/assets/FRAGO_missilesilo_09.DXef9zha.jpg)
-* [banner-status-incoming](./banner-status-incoming.png) [dop5u0np](https://os.cor3.gg/assets/banner-status-incoming.dop5u0np.png)
-* [banner-status-ready](./banner-status-ready.png) [CyXOFZ4R](https://os.cor3.gg/assets/banner-status-ready.CyXOFZ4R.png)
+* [missilesilo_09](./Browser/trade-shipment.corie/missilesilo_09.jpg) [DXef9zha](https://os.cor3.gg/assets/missilesilo_09.DXef9zha.jpg)
+* [banner-status-incoming](./Misc%20assets/banner-status-incoming.png) [dop5u0np](https://os.cor3.gg/assets/banner-status-incoming.dop5u0np.png) (dead link now)
+* [banner-status-ready](./Misc%20assets/banner-status-ready.png) [CyXOFZ4R](https://os.cor3.gg/assets/banner-status-ready.CyXOFZ4R.png) (dead link now)
 
 ### loops 0
 Tutorial
@@ -72,11 +72,18 @@ Path related to the Nutcracker website
 * [[unnamed image]](./Messenger/V3%20News/adf10cce763ac7be4296883546be6838.jpg) - adf10cce763ac7be4296883546be6838
 * [Gobbler](./Messenger/CORIE%20DATABASE/Gobbler.jpg) - 31736d49434a6a56fccf2e20306cbb40
 * [[unnamed image]](./Messenger/Augustus%20Nordman/skylift_photo.jpg) - skylift_photo
+* banner-default-bg-img.png - [banner-default-bg-img.png](https://cdn.cor3.gg/corie/loops/-1/banners/banner-default-bg-img.png)
+* banner-flight-ready-bg-img.png - [banner-flight-ready-bg-img.png](https://cdn.cor3.gg/corie/loops/-1/banners/banner-flight-ready-bg-img.png)
+* modal-ship-img.png - [modal-ship-img.png](https://cdn.cor3.gg/corie/loops/-1/banners/modal-ship-img.png)
 
 ### m7.repnodemassive
 * [tvlines.mp4](./repnodemassive/tvlines.mp4)
 
 ---
+
+### ship
+* wake-up-transition.mp4 - [wake-up-transition.mp4](https://os.cor3.gg/video/ship-page/wake-up-transition.mp4)
+* wake-up-loop.mp4 - [wake-up-loop.mp4](https://os.cor3.gg/video/ship-page/wake-up-loop.mp4)
 
 ### loops acts 2
 #### 200
@@ -115,9 +122,11 @@ The [Browser](./Browser/) folder is not an actual folder on the desktop, just ho
 
 The [MR-7-Media-reader-78x](./MR-7-Media-reader-78x/) folder is also not an actual folder, but houses things found on the storage device once it's repaired/decrypted.
 
+The folder [Misc assets](./Misc%20assets/) simply contains a collection of miscellaneous assets that were downloaded for archiving/convenience.
+
 After solving all 4 loops, an option to buy a ticket to a ship to Mars appears.  
 
-![banner-status-ready](./banner-status-ready.png) → ![banner-status-incoming](./banner-status-incoming.png)
+![banner-status-ready](./Misc%20assets/banner-status-ready.png) → ![banner-status-incoming](./Misc%20assets/banner-status-incoming.png)
 
 Clicking the banner leads to a new site https://m7.repnodemassive.tech/, which displayed a countdown to Sunday, February 1, 2026 15:00:00 GMT. After the countdown ended, the https://www.youtube.com/watch?v=X9kqyqswsL8 video showed up.
 
