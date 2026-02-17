@@ -1,3 +1,5 @@
+# Original contents of the file
+```
 date,from,to,what,notes
 03-02,warehouse east,flat 12,boxes,normal
 05-02,garage old,shop corner,cash run,fast
@@ -5,10 +7,9 @@ date,from,to,what,notes
 10-02,?, ?, ?,anton said later
 12-02,warehouse east,garage old,stuff,not much
 14-02,unknown,unknown,unknown,delete?
+```
 
-<br>
-
-# Formatted table Not from original file:
+# Reformatted to a table
 | date  | from           | to          | what     | notes            |
 |-------|----------------|-------------|----------|------------------|
 | 03-02 | warehouse east | flat 12     | boxes    | normal           |
