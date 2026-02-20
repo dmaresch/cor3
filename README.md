@@ -128,6 +128,8 @@ The [MR-7-Media-reader-78x](./MR-7-Media-reader-78x/) folder is also not an actu
 
 The folder [Misc assets](./Misc%20assets/) simply contains a collection of miscellaneous assets that were downloaded for archiving/convenience.
 
+The folder [util](./util/) contains utility items for working with the ARG. The files inside were not found in the ARG itself and are user-created.
+
 After solving all 4 loops, an option to buy a ticket to a ship to Mars appears.  
 
 ![banner-status-ready](./Misc%20assets/banner-status-ready.png) → ![banner-status-incoming](./Misc%20assets/banner-status-incoming.png)
