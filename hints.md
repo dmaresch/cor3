@@ -12,3 +12,70 @@ Group 4 — 5-step encryption. Formula exists. Lowercase = L, Uppercase = U, Dig
 ```
 
 This is a hint for progressing from [veulluto](/Terminal/velluto.md) and for the radio signals transmitted at that stage.
+
+## 14th February ~16:00 UTC
+```
+RA: ** ** **,** Dec: ** ** **,**
+```
+
+Hint for solving [WPA(8gyr](/WPA\(8gyr.png), it is the format the solution should be written into the terminal while connecting to [PALIMPSEST](/Terminal/PALIMPSEST.md).
+
+## 12th February ~13:30 UTC
+```
+new hint 
+CORIE: Initiation of difficulty level calibration
+CORIE: The difficulty level has been changed from impossible to difficult
+CORIE: Adaptation completed
+
+zabynLGGQKYRAYWaeqmmt
+341794658291463543981
+```
+
+Hint for getting the password for [PALIMPSEST](/Terminal/PALIMPSEST.md) from the [FIDhhgnr](/FIDhhgnr.png) image.
+
+## 12th February ~09:00 UTC
+```
+- - y - - o - - u - -
+   -4    +5    +2
+- - u - - t - - w - -
+-------
+twu
+542
+-------
+t (№20)
++4 = x (№24) / -4 = p (№16)
++5 = y (№25) / -5 = o (№15)
++2 = v (№22) / -2 = r (№18)
+w (№23)
++4 = * (№27) / -4 = s (№19)
++4 = * (№28) / -5 = r (№18)
++2 = y (№26) / -2 = u (№21)
+u (№21)
++4 = y (№25) / -4 = q (№17)
++5 = z (№26) / -5 = p (№16)
++2 = w (№23) / -2 = s (№19)
+
+x, p / y, o / v, r / *, s / *, r / y, u / y, q / z , p / w, s
+-------
+1) u+4=y
+2) t-5=o
+3) w-2=u
+-------
+you
+-------
+```
+
+## 11th February ~14:30 UTC
+```
+Forget the theory. See the core. In the fusion of digits and glyphs lies the key.
+```
+
+## 9th February ~01:00 UTC
+```
+Try another time
+```
+
+## ?? before 9th February 
+```
+Life is hard kid, adapt
+```
