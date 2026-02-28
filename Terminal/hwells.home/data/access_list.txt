@@ -1,0 +1,11 @@
+ACCESS LIST — hwells.home
+
+Authorized nodes:
+- internal_relay_01
+- internal_relay_02
+- backup_mirror
+
+Pending requests: none
+
+To add a new address, use command:
+add [address]
