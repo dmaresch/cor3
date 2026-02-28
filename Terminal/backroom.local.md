@@ -12,9 +12,9 @@
 > ├── [server_passwords_old.txt](./backroom.local/server_passwords_old.txt)  
 > ├── [idle_chat_dump.log](./backroom.local/idle_chat_dump.log)  
 > ├── boring_shit/  
-> │   ├── music/  
-> │   ├── old_photos/  
-> │   └── dont_open/  
+> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── music/  
+> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── old_photos/  
+> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── dont_open/  
 > ├── [deliveries_rough.csv](./backroom.local/deliveries_rough.csv.md)  
 > ├── [velluto_incident_internal.txt](./backroom.local/velluto_incident_internal.txt)  
 > ├── [anton_private.enc](./backroom.local/anton_private.enc)  
