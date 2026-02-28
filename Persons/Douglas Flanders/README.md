@@ -17,4 +17,5 @@
 > The "Born" and "Registration" fields are not visible in the profile view that pops up when searching him in the database.
 
 > [!NOTE]
-> Douglas Flanders doesn't have the common 6-digit ID as his user id, but instead something in the same format as our own player id. For example `FREEL_019C2D64-74BB`.
+> Douglas Flanders doesn't have the common 6-digit ID as his user id, but instead something in the same format as our own player id: `FREEL_019C2D64-74BB`.  
+> It seems to be the same for all players, unlike the 6-digit IDs on other profiles.
