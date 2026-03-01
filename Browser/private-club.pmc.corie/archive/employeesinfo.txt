@@ -1,0 +1,1211 @@
+001
+Employee ID: PC-0001
+Full Name: Marcus Hale
+Callsign: Ironmark
+Division: Tactical Unit Alpha
+Status: Active
+Security Clearance: Level 3
+Specialization: Orbital Boarding
+Last Known Assignment: Dock Incident – L5 Corridor
+Psych Eval Flag: Stable
+Notes: Reassigned after internal complaint (sealed).
+
+002
+Employee ID: PC-0002
+Full Name: Viktor Anselm
+Callsign: Rook
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Signal Interception
+Last Known Assignment: Shadow Relay Monitoring
+Psych Eval Flag: Elevated Stress
+Notes: Restricted access to Archive Node-7.
+
+003
+Employee ID: PC-0003
+Full Name: Daniel Ko
+Callsign: Static
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Firewall Breach
+Last Known Assignment: Client Redline Support
+Psych Eval Flag: None
+Notes: Incident report missing (Ref: 17-B).
+
+004
+Employee ID: PC-0004
+Full Name: Elena Voronova
+Callsign: Ashen
+Division: Tactical Unit Beta
+Status: Active
+Security Clearance: Level 2
+Specialization: Close Quarters
+Last Known Assignment: Station “Union” Sweep
+Psych Eval Flag: Aggression Spike
+Notes: Temporary suspension (lifted).
+
+005
+Employee ID: PC-0005
+Full Name: Idris Mbeki
+Callsign: Vault
+Division: Logistics
+Status: Active
+Security Clearance: Level 2
+Specialization: Asset Relocation
+Last Known Assignment: Cargo 74-K
+Psych Eval Flag: None
+Notes: Financial audit pending.
+
+006
+Employee ID: PC-0006
+Full Name: Jonas Richter
+Callsign: Null
+Division: Section 13
+Status: Terminated
+Security Clearance: Level 5 (revoked)
+Specialization: Black Ops
+Last Known Assignment: Moon Outpost Delta
+Psych Eval Flag: Sealed
+Notes: Record partially expunged.
+
+007
+Employee ID: PC-0007
+Full Name: Ayla Serrano
+Callsign: Pulse
+Division: Medical
+Status: Active
+Security Clearance: Level 2
+Specialization: Trauma Response
+Last Known Assignment: Retrieval Op – Ceres
+Psych Eval Flag: Fatigue Risk
+Notes: Filed 3 anomaly reports (ignored).
+
+008
+Employee ID: PC-0008
+Full Name: Grant Holloway
+Callsign: Lockjaw
+Division: Tactical Unit Alpha
+Status: Active
+Security Clearance: Level 3
+Specialization: Riot Suppression
+Last Known Assignment: Dome Breach Containment
+Psych Eval Flag: Stable
+Notes: Commended by Client 44-A.
+
+009
+Employee ID: PC-0009
+Full Name: Theo Marin
+Callsign: Quill
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Psychological Profiling
+Last Known Assignment: Client Negotiation
+Psych Eval Flag: Monitor
+Notes: Access to detainee interviews.
+
+010
+Employee ID: PC-0010
+Full Name: Pavel Ionescu
+Callsign: Brick
+Division: Engineering
+Status: Active
+Security Clearance: Level 2
+Specialization: Containment Systems
+Last Known Assignment: Facility Upgrade – Node Grey
+Psych Eval Flag: None
+Notes: Frequent overtime logged.
+
+011
+Employee ID: PC-0011
+Full Name: Amir Qadir
+Callsign: Drift
+Division: Recon
+Status: Active
+Security Clearance: Level 3
+Specialization: Low-Orbit Surveillance
+Last Known Assignment: Sector Scan – Theta
+Psych Eval Flag: Stable
+Notes: Report discrepancy (minor).
+
+012
+Employee ID: PC-0012
+Full Name: Sofia Mendes
+Callsign: Viper
+Division: Tactical Unit Gamma
+Status: Active
+Security Clearance: Level 3
+Specialization: Sniper Operations
+Last Known Assignment: Perimeter Watch – Blacksite
+Psych Eval Flag: Elevated Focus
+Notes: Transfer requested (denied).
+
+013
+Employee ID: PC-0013
+Full Name: Henrik Olsen
+Callsign: Atlas
+Division: Heavy Response
+Status: Active
+Security Clearance: Level 2
+Specialization: Structural Breach
+Last Known Assignment: Extraction – Zone Red
+Psych Eval Flag: Stable
+Notes: Minor injury logged.
+
+014
+Employee ID: PC-0014
+Full Name: Lucien Moreau
+Callsign: Shade
+Division: Section 13
+Status: Active
+Security Clearance: Level 5
+Specialization: Deep Cover
+Last Known Assignment: Classified
+Psych Eval Flag: Restricted
+Notes: Record encrypted.
+
+015
+Employee ID: PC-0015
+Full Name: Yara Khalil
+Callsign: Flux
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Encryption Modeling
+Last Known Assignment: Signal Analysis – PMC Relay
+Psych Eval Flag: None
+Notes: Cross-division clearance pending.
+
+016
+Employee ID: PC-0016
+Full Name: Roland Pierce
+Callsign: Hammer
+Division: Tactical Unit Alpha
+Status: Active
+Security Clearance: Level 3
+Specialization: Forced Entry / Structural Breach
+Last Known Assignment: Dock 9 Sweep – Client Dispute
+Psych Eval Flag: Stable
+Notes: Filed use-of-force justification exceeding protocol threshold. Internal review closed without action.
+
+017
+Employee ID: PC-0017
+Full Name: Kenji Watanabe
+Callsign: Echo
+Division: Recon Division
+Status: Active
+Security Clearance: Level 3
+Specialization: Silent Infiltration / Perimeter Recon
+Last Known Assignment: Ceres Ring Surveillance Grid
+Psych Eval Flag: Monitor
+Notes: Motion tracker data inconsistencies logged during last operation. Investigation marked “non-critical”.
+
+018
+Employee ID: PC-0018
+Full Name: Maria Kovacs
+Callsign: Cipher
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Data Extraction / Pattern Analysis
+Last Known Assignment: Archive Node-3 Audit
+Psych Eval Flag: None
+Notes: Granted temporary cross-division access to Detainee Interview Logs. Access revoked after 72 hours.
+
+019
+Employee ID: PC-0019
+Full Name: Luka Petrov
+Callsign: Bastion
+Division: Heavy Response
+Status: Active
+Security Clearance: Level 2
+Specialization: Shield Deployment / Crowd Containment
+Last Known Assignment: Sector 3 Structural Lockdown
+Psych Eval Flag: Stable
+Notes: Structural collapse occurred during deployment. Incident classified as “equipment failure”.
+
+020
+Employee ID: PC-0020
+Full Name: Hannah Weiss
+Callsign: Frost
+Division: Tactical Unit Beta
+Status: Active
+Security Clearance: Level 3
+Specialization: Riot Suppression / Non-Lethal Enforcement
+Last Known Assignment: Dome Riot – Block C6
+Psych Eval Flag: Aggression Spike
+Notes: Three civilian injuries recorded. Force report aligned with client narrative.
+
+021
+Employee ID: PC-0021
+Full Name: Omar Haddad
+Callsign: Coil
+Division: Engineering
+Status: Active
+Security Clearance: Level 2
+Specialization: Lock Systems / Access Control Infrastructure
+Last Known Assignment: Vault Upgrade – Facility Grey
+Psych Eval Flag: None
+Notes: Night-shift exclusive schedule. Independent system override privileges granted.
+
+022
+Employee ID: PC-0022
+Full Name: Jasper Klein
+Callsign: Volt
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Network Override / Packet Manipulation
+Last Known Assignment: Client Black – Secure Relay Patch
+Psych Eval Flag: Monitor
+Notes: Repeated packet loss anomalies traced to internal routing node. Root cause unconfirmed.
+
+023
+Employee ID: PC-0023
+Full Name: Elena Duarte
+Callsign: Rift
+Division: Recon Division
+Status: Active
+Security Clearance: Level 3
+Specialization: Surface Tracking / Low-Visibility Pursuit
+Last Known Assignment: Lunar Surface Sweep – Perimeter 12
+Psych Eval Flag: Stable
+Notes: Filed complaint regarding unmarked exclusion zones. Complaint archived.
+
+024
+Employee ID: PC-0024
+Full Name: Victor Madsen
+Callsign: Thorn
+Division: Tactical Unit Gamma
+Status: Active
+Security Clearance: Level 2
+Specialization: Close Quarters Combat
+Last Known Assignment: Sublevel 4 Clearance Operation
+Psych Eval Flag: None
+Notes: Commended by Client 44-A for rapid neutralization protocol.
+
+025
+Employee ID: PC-0025
+Full Name: Arjun Patel
+Callsign: Node
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Asset Mapping / Financial Trace
+Last Known Assignment: External Client Audit (Redacted)
+Psych Eval Flag: Restricted
+Notes: Financial anomaly traced to offshore account cluster. Report partially sealed.
+
+026
+Employee ID: PC-0026
+Full Name: Tomas Berg
+Callsign: Scar
+Division: Tactical Unit Alpha
+Status: Active
+Security Clearance: Level 3
+Specialization: Extraction / Target Isolation
+Last Known Assignment: Station 12 Retrieval
+Psych Eval Flag: Stable
+Notes: Extraction target transferred to Blacksite holding. Follow-up documentation missing.
+
+027
+Employee ID: PC-0027
+Full Name: Ilona Sato
+Callsign: Ghost
+Division: Section 13
+Status: Active
+Security Clearance: Level 5
+Specialization: Covert Retrieval / Black Operations
+Last Known Assignment: Classified
+Psych Eval Flag: Restricted
+Notes: Record partially encrypted. Clearance elevation logged post-Moon Incident.
+
+028
+Employee ID: PC-0028
+Full Name: Diego Morales
+Callsign: Flint
+Division: Engineering
+Status: Active
+Security Clearance: Level 2
+Specialization: Structural Reinforcement / Containment Barriers
+Last Known Assignment: Grey Facility Retrofit
+Psych Eval Flag: None
+Notes: Logged overtime beyond regulation limit. Payroll adjustments processed manually.
+
+029
+Employee ID: PC-0029
+Full Name: Nadia Suleiman
+Callsign: Latch
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Detainee Interrogation / Behavioral Analysis
+Last Known Assignment: Blacksite-3 Holding
+Psych Eval Flag: Monitor
+Notes: Audio transcripts from last session sealed under executive directive.
+
+030
+Employee ID: PC-0030
+Full Name: Marcus Lin
+Callsign: Anchor
+Division: Heavy Response
+Status: Active
+Security Clearance: Level 2
+Specialization: Containment / Shield Deployment
+Last Known Assignment: Riot Aftermath Stabilization – Sector D
+Psych Eval Flag: Stable
+Notes: Civilian casualty count adjusted in final report.
+
+031
+Employee ID: PC-0031
+Full Name: Isaac Rowe
+Callsign: Quarry
+Division: Tactical Unit Beta
+Status: Active
+Security Clearance: Level 3
+Specialization: Breach & Clear
+Last Known Assignment: Cargo Intercept – Dock Ring 4
+Psych Eval Flag: Stable
+Notes: Bodycam footage from last 90 seconds of operation corrupted. Recovery attempt failed.
+
+032
+Employee ID: PC-0032
+Full Name: Anika Sørensen
+Callsign: Delta
+Division: Recon Division
+Status: Active
+Security Clearance: Level 3
+Specialization: Long-Range Surveillance
+Last Known Assignment: Perimeter Sweep – Restricted Sector L2
+Psych Eval Flag: None
+Notes: Logged visual confirmation of unidentified transit vehicle. Report marked “resolved”.
+
+033
+Employee ID: PC-0033
+Full Name: Carlos Ibarra
+Callsign: Splice
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Secure Channel Penetration
+Last Known Assignment: Client Relay Breach – Internal
+Psych Eval Flag: Elevated Fatigue
+Notes: Logged 42-hour continuous terminal activity prior to assignment closure.
+
+034
+Employee ID: PC-0034
+Full Name: Petra Novak
+Callsign: Halo
+Division: Medical
+Status: Active
+Security Clearance: Level 2
+Specialization: Field Stabilization / Chemical Exposure Response
+Last Known Assignment: Containment Incident – Lab Block C
+Psych Eval Flag: Stable
+Notes: Two patients transferred off-record to external holding.
+
+035
+Employee ID: PC-0035
+Full Name: Leonid Grachev
+Callsign: Anvil
+Division: Heavy Response
+Status: Active
+Security Clearance: Level 2
+Specialization: Structural Suppression
+Last Known Assignment: Dome Integrity Failure – Sector 9
+Psych Eval Flag: None
+Notes: Internal memo recommends psychological evaluation. Deferred.
+
+036
+Employee ID: PC-0036
+Full Name: Claire Beaumont
+Callsign: Iris
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Counter-Insurgency Profiling
+Last Known Assignment: Forum Surveillance – Lunar Fringe Groups
+Psych Eval Flag: Monitor
+Notes: Cross-referenced with external civilian networks (flagged).
+
+037
+Employee ID: PC-0037
+Full Name: Mikhail Reznik
+Callsign: Grit
+Division: Tactical Unit Gamma
+Status: Active
+Security Clearance: Level 3
+Specialization: Controlled Demolition
+Last Known Assignment: Sublevel Clearance – Facility Red
+Psych Eval Flag: Stable
+Notes: Detonation charge variance exceeded projection by 14%.
+
+038
+Employee ID: PC-0038
+Full Name: Yasmin Chowdhury
+Callsign: Veil
+Division: Section 13
+Status: Active
+Security Clearance: Level 5
+Specialization: Identity Reassignment / Deep Cover
+Last Known Assignment: Classified
+Psych Eval Flag: Restricted
+Notes: Personnel history modified retroactively. Prior identity archived.
+
+039
+Employee ID: PC-0039
+Full Name: Robert Kane
+Callsign: Warden
+Division: Blacksite Operations
+Status: Active
+Security Clearance: Level 5
+Specialization: Detainee Management
+Last Known Assignment: Ghost Facility – Holding Level 2
+Psych Eval Flag: None
+Notes: Access to detainee records requires executive approval.
+
+040
+Employee ID: PC-0040
+Full Name: Hana Idrissi
+Callsign: Lumen
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Signal Decryption
+Last Known Assignment: PMC Relay Analysis – External Frequency
+Psych Eval Flag: Elevated Focus
+Notes: Logged interest in unauthorized spectrum scan.
+
+041
+Employee ID: PC-0041
+Full Name: Gregory Shaw
+Callsign: Pike
+Division: Tactical Unit Alpha
+Status: Deceased (Operation)
+Security Clearance: Level 3
+Specialization: Hostage Recovery
+Last Known Assignment: Station “Union” Boarding
+Psych Eval Flag: N/A
+Notes: Cause of death listed as decompression. Full report sealed.
+
+042
+Employee ID: PC-0042
+Full Name: Laila Ben Salem
+Callsign: Ember
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Financial Intelligence
+Last Known Assignment: Client Asset Transfer Review
+Psych Eval Flag: Stable
+Notes: Identified irregular acid shipment invoices. Case reassigned.
+
+043
+Employee ID: PC-0043
+Full Name: Dominic Hsu
+Callsign: Breaker
+Division: Heavy Response
+Status: Active
+Security Clearance: Level 2
+Specialization: Crowd Suppression
+Last Known Assignment: Civil Unrest – Dome Sector B
+Psych Eval Flag: Aggression Spike
+Notes: Internal disciplinary action recommended. No record of enforcement.
+
+044
+Employee ID: PC-0044
+Full Name: Sofia Markovic
+Callsign: Vector
+Division: Recon Division
+Status: Active
+Security Clearance: Level 3
+Specialization: Target Shadowing
+Last Known Assignment: Moon Transit Platform
+Psych Eval Flag: Monitor
+Notes: Transit logs from assignment partially missing.
+
+045
+Employee ID: PC-0045
+Full Name: Julian Mercer
+Callsign: Proxy
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Proxy Asset Recruitment
+Last Known Assignment: External Civilian Network Penetration
+Psych Eval Flag: Restricted
+Notes: Recruitment candidate disappeared prior to contact closure.
+
+046
+Employee ID: PC-0046
+Full Name: Anton Weber
+Callsign: Crank
+Division: Engineering
+Status: Active
+Security Clearance: Level 2
+Specialization: Pressure Systems / Seal Integrity
+Last Known Assignment: Containment Retrofit – Sublevel Vault
+Psych Eval Flag: None
+Notes: Logged override of safety interlock during test cycle. No disciplinary action recorded.
+
+047
+Employee ID: PC-0047
+Full Name: Imani Okoye
+Callsign: Trace
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Digital Footprint Tracking
+Last Known Assignment: External Civilian Monitoring – Fringe Groups
+Psych Eval Flag: Stable
+Notes: Repeated queries involving “graver” activity flagged but cleared.
+
+048
+Employee ID: PC-0048
+Full Name: Stefan Richter
+Callsign: Coldline
+Division: Tactical Unit Gamma
+Status: Active
+Security Clearance: Level 3
+Specialization: Perimeter Elimination
+Last Known Assignment: Surface Pursuit – Lunar Fringe
+Psych Eval Flag: Monitor
+Notes: Bodycam feed manually truncated at 02:13.
+
+049
+Employee ID: PC-0049
+Full Name: Mei-Ling Zhao
+Callsign: Ledger
+Division: Logistics
+Status: Active
+Security Clearance: Level 2
+Specialization: Hazardous Cargo Routing
+Last Known Assignment: Shipment Batch A-77 (Chemical)
+Psych Eval Flag: None
+Notes: Acid barrel manifest modified prior to departure. Authorization verified.
+
+050
+Employee ID: PC-0050
+Full Name: Victor Arsenault
+Callsign: Mantle
+Division: Blacksite Operations
+Status: Active
+Security Clearance: Level 5
+Specialization: Detainee Transfer Oversight
+Last Known Assignment: Ghost Facility Intake
+Psych Eval Flag: Restricted
+Notes: Transfer logs sealed under Executive Order 19-B.
+
+051
+Employee ID: PC-0051
+Full Name: Reza Khaldun
+Callsign: Pivot
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Relay Obfuscation
+Last Known Assignment: Signal Masking – External PMC Traffic
+Psych Eval Flag: Stable
+Notes: Successfully rerouted 8 outbound transmissions through dead nodes.
+
+052
+Employee ID: PC-0052
+Full Name: Lucas Andrade
+Callsign: Ridge
+Division: Heavy Response
+Status: Active
+Security Clearance: Level 2
+Specialization: Containment Lockdown
+Last Known Assignment: Riot Suppression – Dome C4
+Psych Eval Flag: Aggression Spike
+Notes: Civilian casualty report revised post-operation.
+
+053
+Employee ID: PC-0053
+Full Name: Elina Morozova
+Callsign: Whisper
+Division: Section 13
+Status: Active
+Security Clearance: Level 5
+Specialization: Covert Extraction
+Last Known Assignment: Moon Outpost Delta
+Psych Eval Flag: Restricted
+Notes: Moon Incident referenced in sealed annex. Clearance temporarily elevated afterward.
+
+054
+Employee ID: PC-0054
+Full Name: Darius Kane
+Callsign: Emberfall
+Division: Tactical Unit Alpha
+Status: Terminated
+Security Clearance: Level 3 (revoked)
+Specialization: Urban Suppression
+Last Known Assignment: Sublevel Containment Sweep
+Psych Eval Flag: Unstable
+Notes: Personnel file marked “Non-Disclosure Enforced”. Cause not specified.
+
+055
+Employee ID: PC-0055
+Full Name: Selene Kovač
+Callsign: Prism
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Media Manipulation
+Last Known Assignment: Incident Narrative Alignment – Dock Riot
+Psych Eval Flag: Stable
+Notes: Civilian footage replaced with curated stream.
+
+056
+Employee ID: PC-0056
+Full Name: Mateo Silva
+Callsign: Flintlock
+Division: Engineering
+Status: Active
+Security Clearance: Level 2
+Specialization: Reinforced Door Systems
+Last Known Assignment: Facility Red – Inner Chamber
+Psych Eval Flag: None
+Notes: Installation blueprint differs from archived version.
+
+057
+Employee ID: PC-0057
+Full Name: Naima Al-Rashid
+Callsign: Orbit
+Division: Recon Division
+Status: Active
+Security Clearance: Level 3
+Specialization: Surface Drift Monitoring
+Last Known Assignment: Perimeter Sweep – South Sector Mines
+Psych Eval Flag: Monitor
+Notes: Logged acoustic anomaly (“knocking”) under Sector C-17.
+
+058
+Employee ID: PC-0058
+Full Name: Erik Lund
+Callsign: Bastille
+Division: Blacksite Operations
+Status: Active
+Security Clearance: Level 5
+Specialization: Containment Oversight
+Last Known Assignment: Ghost Facility – Lower Holding
+Psych Eval Flag: Restricted
+Notes: Detainee status logs intermittently unavailable.
+
+059
+Employee ID: PC-0059
+Full Name: Adrian Cole
+Callsign: Sable
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Asset Liaison
+Last Known Assignment: External Contractor Coordination
+Psych Eval Flag: Stable
+Notes: Contractor reference: “H. Wells – MO Chemical”. Access logged.
+
+060
+Employee ID: PC-0060
+Full Name: Tomasz Novak
+Callsign: Vantage
+Division: Recon Division
+Status: Missing
+Security Clearance: Level 3
+Specialization: Surface Tracking
+Last Known Assignment: Moon Transit Platform
+Psych Eval Flag: N/A
+Notes: Disappearance recorded 36 hours post-arrival. Search file archived.
+
+061
+Employee ID: PC-0061
+Full Name: Ibrahim Darzi
+Callsign: Latchkey
+Division: Engineering
+Status: Active
+Security Clearance: Level 2
+Specialization: Vault Access Systems
+Last Known Assignment: Facility Grey – Secondary Containment
+Psych Eval Flag: None
+Notes: Emergency override sequence updated without logged approval.
+
+062
+Employee ID: PC-0062
+Full Name: Natalia Voss
+Callsign: Mirror
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Psychological Operations
+Last Known Assignment: Civilian Interference Management – Lunar Fringe
+Psych Eval Flag: Stable
+Notes: Maintains archive of civilian forum interactions (restricted subset).
+
+063
+Employee ID: PC-0063
+Full Name: Gabriel Morrow
+Callsign: Lockstep
+Division: Tactical Unit Gamma
+Status: Active
+Security Clearance: Level 3
+Specialization: Coordinated Suppression
+Last Known Assignment: Riot Containment – Dock Sector 5
+Psych Eval Flag: Aggression Spike
+Notes: Civilian detainment numbers adjusted post-report submission.
+
+064
+Employee ID: PC-0064
+Full Name: Aya Nakamura
+Callsign: Circuit
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Encryption Modeling
+Last Known Assignment: Signal Traffic Analysis – External PMC
+Psych Eval Flag: Monitor
+Notes: Logged interest in legacy punchcard architecture. Inquiry closed.
+
+065
+Employee ID: PC-0065
+Full Name: Dominic Reyes
+Callsign: Quarryline
+Division: Heavy Response
+Status: Active
+Security Clearance: Level 2
+Specialization: Structural Suppression
+Last Known Assignment: Sublevel 7 Breach
+Psych Eval Flag: Stable
+Notes: Deployment footage partially redacted.
+
+066
+Employee ID: PC-0066
+Full Name: Anwar Belkacem
+Callsign: Ledgerline
+Division: Logistics
+Status: Active
+Security Clearance: Level 2
+Specialization: Hazardous Materials Routing
+Last Known Assignment: Shipment 19-K (Chemical – Acid Variant)
+Psych Eval Flag: None
+Notes: Repeated shipment reroutes to private holding docks.
+
+067
+Employee ID: PC-0067
+Full Name: Elise Martel
+Callsign: Sparrow
+Division: Recon Division
+Status: Active
+Security Clearance: Level 3
+Specialization: Civilian Shadowing
+Last Known Assignment: Fringe Activity Monitoring – “Graver” Clusters
+Psych Eval Flag: Stable
+Notes: Two targets temporarily detained, released without charge.
+
+068
+Employee ID: PC-0068
+Full Name: Kieran Doyle
+Callsign: Strata
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Archive Sanitization
+Last Known Assignment: Moon Incident Documentation Review
+Psych Eval Flag: Restricted
+Notes: 12 records marked “expunged per directive”.
+
+069
+Employee ID: PC-0069
+Full Name: Viktor Semyonov
+Callsign: Recoil
+Division: Section 13
+Status: Active
+Security Clearance: Level 5
+Specialization: Deep Cover / Internal Neutralization
+Last Known Assignment: Moon Outpost Delta
+Psych Eval Flag: Restricted
+Notes: Cross-reference with file “Novak, T.” (sealed).
+
+070
+Employee ID: PC-0070
+Full Name: Lena Hartmann
+Callsign: Haloform
+Division: Medical
+Status: Active
+Security Clearance: Level 2
+Specialization: Trauma & Chemical Stabilization
+Last Known Assignment: Ghost Facility – Lower Intake
+Psych Eval Flag: Monitor
+Notes: Filed internal concern regarding detainee sedation protocol.
+
+071
+Employee ID: PC-0071
+Full Name: Raul Mendes
+Callsign: Ironveil
+Division: Tactical Unit Alpha
+Status: Active
+Security Clearance: Level 3
+Specialization: Controlled Extraction
+Last Known Assignment: Surface Intercept – South Sector Mines
+Psych Eval Flag: Stable
+Notes: Bodycam feed shows unlisted third-party presence (unidentified).
+
+072
+Employee ID: PC-0072
+Full Name: Sofia Ionescu
+Callsign: Archivist
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Data Retention & Record Management
+Last Known Assignment: Internal Archive Consolidation
+Psych Eval Flag: None
+Notes: Accessed sealed Section 13 logs without executive request (flag cleared).
+
+073
+Employee ID: PC-0073
+Full Name: Daniel Heimer
+Callsign: Ashline
+Division: Tactical Unit Beta
+Status: Terminated
+Security Clearance: Level 3 (revoked)
+Specialization: Rapid Entry
+Last Known Assignment: Sublevel 9 Sweep
+Psych Eval Flag: Unstable
+Notes: Record marked “Identity Reassigned”. Previous alias sealed.
+
+074
+Employee ID: PC-0074
+Full Name: Marta Lindqvist
+Callsign: Fluxgate
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Firewall Stress Testing
+Last Known Assignment: Internal Server Audit – Employeesinfo Node
+Psych Eval Flag: Stable
+Notes: Logged manual override attempt from unknown credential.
+
+075
+Employee ID: PC-0075
+Full Name: Elias Novak
+Callsign: Hollow
+Division: Section 13
+Status: Terminated
+Security Clearance: Level 5 (revoked)
+Specialization: Blacksite Retrieval
+Last Known Assignment: Moon Outpost Delta
+Psych Eval Flag: Restricted
+Notes: File incomplete. Termination reason classified. Cross-reference with Moon Incident Annex C.
+
+076
+Employee ID: PC-0076
+Full Name: Henrik Volkov
+Callsign: Bastion-2
+Division: Blacksite Operations
+Status: Active
+Security Clearance: Level 5
+Specialization: Facility Oversight / Detainee Containment
+Last Known Assignment: Ghost Facility – Upper Holding
+Psych Eval Flag: Restricted
+Notes: Logged executive-level access outside scheduled rotation. Audit deferred.
+
+077
+Employee ID: PC-0077
+Full Name: Aisha Rahman
+Callsign: Driftline
+Division: Recon Division
+Status: Active
+Security Clearance: Level 3
+Specialization: Perimeter Tracking
+Last Known Assignment: Lunar Fringe – Sector C-17
+Psych Eval Flag: Monitor
+Notes: Acoustic anomaly report duplicated across three days. Filed under “environmental”.
+
+078
+Employee ID: PC-0078
+Full Name: Caleb Morgan
+Callsign: Lockdown
+Division: Heavy Response
+Status: Active
+Security Clearance: Level 2
+Specialization: Emergency Seal Deployment
+Last Known Assignment: Dome Integrity Breach – Block E
+Psych Eval Flag: Stable
+Notes: Seal time exceeded expected response window by 11 seconds. Incident minimized.
+
+079
+Employee ID: PC-0079
+Full Name: Yelena Drozd
+Callsign: Shard
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Asset Suppression
+Last Known Assignment: Civilian Interference – Dock Sector 2
+Psych Eval Flag: Stable
+Notes: Subject marked “resolved”. Follow-up record not found.
+
+080
+Employee ID: PC-0080
+Full Name: Tobias Klein
+Callsign: Refract
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Packet Scrambling
+Last Known Assignment: Signal Obfuscation – External Channel
+Psych Eval Flag: None
+Notes: Temporary log blackout occurred during assignment window.
+
+081
+Employee ID: PC-0081
+Full Name: Sofia Navarro
+Callsign: Emberlight
+Division: Medical
+Status: Active
+Security Clearance: Level 2
+Specialization: Chemical Exposure Management
+Last Known Assignment: Shipment Incident – Batch A-77
+Psych Eval Flag: Monitor
+Notes: Two exposed personnel listed as “non-operational”. Cause unspecified.
+
+082
+Employee ID: PC-0082
+Full Name: Nikolai Sidorov
+Callsign: Gatekeeper
+Division: Section 13
+Status: Active
+Security Clearance: Level 5
+Specialization: Internal Neutralization
+Last Known Assignment: Classified
+Psych Eval Flag: Restricted
+Notes: Referenced in Moon Incident Annex C alongside “E. Novak”.
+
+083
+Employee ID: PC-0083
+Full Name: Daniel Koresh
+Callsign: Vane
+Division: Intelligence
+Status: Expunged
+Security Clearance: Unknown
+Specialization: Unknown
+Last Known Assignment: Archive Node-7
+Psych Eval Flag: N/A
+Notes: Record manually wiped. Residual metadata remains.
+
+084
+Employee ID: PC-0084
+Full Name: Lucia Ferreira
+Callsign: Coilbreak
+Division: Engineering
+Status: Active
+Security Clearance: Level 2
+Specialization: Power Grid Redirection
+Last Known Assignment: Ghost Facility – Lower Grid
+Psych Eval Flag: None
+Notes: Power fluctuation at 03:17 local. Logged as “maintenance cycle”.
+
+085
+Employee ID: PC-0085
+Full Name: Aaron Whitaker
+Callsign: Quarry-3
+Division: Tactical Unit Alpha
+Status: Active
+Security Clearance: Level 3
+Specialization: Close Quarters Neutralization
+Last Known Assignment: Civilian Detainment – Fringe
+Psych Eval Flag: Aggression Spike
+Notes: Bodycam feed missing from 01:45 to 02:02.
+
+086
+Employee ID: PC-0086
+Full Name: Hana Kessler
+Callsign: Cipherline
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 3
+Specialization: Legacy System Emulation
+Last Known Assignment: PMC Internal Relay Audit
+Psych Eval Flag: Stable
+Notes: Logged simulated punchcard input test.
+
+087
+Employee ID: PC-0087
+Full Name: Karim El-Sayed
+Callsign: Sentinel
+Division: Heavy Response
+Status: Active
+Security Clearance: Level 2
+Specialization: Riot Containment
+Last Known Assignment: Dock Sector 8
+Psych Eval Flag: Stable
+Notes: Civilian headcount discrepancy of 3. Corrected in final report.
+
+088
+Employee ID: PC-0088
+Full Name: Clara Zhou
+Callsign: Meridian
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Client Risk Assessment
+Last Known Assignment: MO Chemical Oversight
+Psych Eval Flag: Monitor
+Notes: Logged internal memo regarding hazardous shipment concealment.
+
+089
+Employee ID: PC-0089
+Full Name: Radu Iliescu
+Callsign: Hollowpoint
+Division: Tactical Unit Gamma
+Status: Active
+Security Clearance: Level 3
+Specialization: Precision Elimination
+Last Known Assignment: Surface Pursuit – Unlisted Target
+Psych Eval Flag: Stable
+Notes: Target identity redacted.
+
+090
+Employee ID: PC-0090
+Full Name: Tobias Heimer
+Callsign: Breakline
+Division: Section 13
+Status: Internal Detainment
+Security Clearance: Level 5 (suspended)
+Specialization: Deep Cover
+Last Known Assignment: Moon Outpost Delta
+Psych Eval Flag: Restricted
+Notes: Held at Ghost Facility. Access requires executive authorization.
+
+091
+Employee ID: PC-0091
+Full Name: Adrian Volker
+Callsign: Overseer
+Division: Blacksite Operations
+Status: Active
+Security Clearance: Level 5
+Specialization: Facility Director
+Last Known Assignment: Ghost Facility – Executive Oversight
+Psych Eval Flag: Restricted
+Notes: Direct reporting line to Executive Board. Access to all detainee records.
+
+092
+Employee ID: PC-0092
+Full Name: Mila Rasmussen
+Callsign: Fluxline
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 4
+Specialization: Signal Decryption / Relay Analysis
+Last Known Assignment: PMC Frequency Audit
+Psych Eval Flag: Monitor
+Notes: Logged decryption model anomaly. Report archived under “legacy protocol”.
+
+093
+Employee ID: PC-0093
+Full Name: Sergei Antonov
+Callsign: Warden-2
+Division: Blacksite Operations
+Status: Active
+Security Clearance: Level 5
+Specialization: Detainee Intake & Transfer
+Last Known Assignment: Ghost Facility – Lower Holding
+Psych Eval Flag: Stable
+Notes: Transfer order signed under emergency directive 19-C.
+
+094
+Employee ID: PC-0094
+Full Name: Clara Mendez
+Callsign: Ledger-2
+Division: Logistics
+Status: Active
+Security Clearance: Level 2
+Specialization: Hazardous Chemical Transport
+Last Known Assignment: Batch A-77 / A-81 (Acid Variant)
+Psych Eval Flag: None
+Notes: Shipment rerouted through private dock registry linked to MO Chemical.
+
+095
+Employee ID: PC-0095
+Full Name: Henrik Dahl
+Callsign: Coldvault
+Division: Engineering
+Status: Active
+Security Clearance: Level 3
+Specialization: Containment Architecture
+Last Known Assignment: Ghost Facility – Sublevel Expansion
+Psych Eval Flag: Stable
+Notes: Blueprint revision includes unlisted holding chambers.
+
+096
+Employee ID: PC-0096
+Full Name: Lior Haddar
+Callsign: Proxyline
+Division: Intelligence
+Status: Active
+Security Clearance: Level 4
+Specialization: Client Liaison
+Last Known Assignment: External Contractor – H. Wells
+Psych Eval Flag: Stable
+Notes: Logged direct encrypted channel to MO Chemical executive office.
+
+097
+Employee ID: PC-0097
+Full Name: Daniel Novak
+Callsign: Hollow-2
+Division: Section 13
+Status: Deceased (Non-Operational)
+Security Clearance: Level 5 (revoked)
+Specialization: Covert Retrieval
+Last Known Assignment: Moon Outpost Delta
+Psych Eval Flag: Restricted
+Notes: Cause of death listed as “operational failure”. Body not recovered.
+
+098
+Employee ID: PC-0098
+Full Name: Iris Callahan
+Callsign: Specter
+Division: Recon Division
+Status: Active
+Security Clearance: Level 3
+Specialization: Fringe Surveillance
+Last Known Assignment: Lunar Fringe – Civilian Cluster “Gravers”
+Psych Eval Flag: Monitor
+Notes: Target group infiltration unsuccessful. Subject “JJ” flagged and later removed from watchlist.
+
+099
+Employee ID: PC-0099
+Full Name: Tomas Heimer
+Callsign: Ash
+Division: Section 13
+Status: Terminated
+Security Clearance: Level 5 (revoked)
+Specialization: Deep Cover / Internal Neutralization
+Last Known Assignment: Moon Outpost Delta
+Psych Eval Flag: Restricted
+Notes: Record marked “Identity Reassignment Pending”. File cross-linked to Novak, D.
+
+100
+Employee ID: PC-0100
+Full Name: Elias Hart
+Callsign: Signal
+Division: Cyber Operations
+Status: Active
+Security Clearance: Level 4
+Specialization: Encrypted PMC Traffic Analysis
+Last Known Assignment: Private Club Relay – External Masking
+Psych Eval Flag: Stable
+Notes: Maintains legacy access node for frequency interception. Access restricted to Executive tier.
+
+101
+Employee ID: PC-0101
+Full Name: Markus Vale
+Callsign: Relay
+Division: Logistics Escort Unit
+Status: Active
+Security Clearance: Level 3
+Specialization: Hazardous Cargo Escort
+Last Known Assignment: Convoy Theta-9 – Fringe Transit Corridor
+Psych Eval Flag: Cleared Post-Incident
+Notes: Sole survivor of Convoy Theta-9 detonation event. Presented with a reward for completing the task.
