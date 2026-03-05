@@ -1,3 +1,10 @@
+## 5th March ~18:00
+```
+1 server - 1 day 
+5 servers 
+Server = information on the website
+```
+
 ## 25th February ~18:00 UTC
 ```
 Result: connect [section1][section2][section3] --password=[password]
