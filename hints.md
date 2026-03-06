@@ -10,7 +10,7 @@ Soon you’ll need them.
 
 CORIE Help
 ```
-There indeed had been some problems with the radios prior to this "announcement" via the help system. 
+There indeed had been some problems with the radios prior to this "announcement" via the help system. The compensation was 300 credits.
 
 ## 5th March ~18:00 UTC
 ```
