@@ -1,4 +1,18 @@
-## 5th March ~18:00
+## 6th March ~20:30 UTC
+```
+CORIE system notice
+A temporary instability has been detected in the Radio signal routing module.
+During the last diagnostic cycle the system identified abnormal load affecting several broadcast nodes.
+The fault has now been isolated and corrected. All radio channels are operating within normal parameters.
+We apologize for the inconvenience caused during this period.
+As a small compensation for the disruption, a credit bonus has been issued to your account.
+Soon you’ll need them.
+
+CORIE Help
+```
+There indeed had been some problems with the radios prior to this "announcement" via the help system. 
+
+## 5th March ~18:00 UTC
 ```
 1 server - 1 day 
 5 servers 
