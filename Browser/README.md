@@ -15,6 +15,7 @@ Only some sites get automatically added to the Browser sidebar, likely indicatin
 * [Nutcracker Forum](./forum.corie/)
 * [Private Club PMC](./private-club.pmc.corie/)
 * [Reports Archive](./viibot.corie/)
+* [Silo local](./silo.local.corie/)
 * [Trade & Shipment Database](./trade-shipment.corie/)
 
 
