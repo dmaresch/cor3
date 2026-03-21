@@ -1,0 +1,44 @@
+client_registry_masked.csv
+Access Level: 3
+Data Status: Masked identifiers
+
+Columns:
+Client_ID | Sector | Risk_Category | Active_Contracts | Oversight_Node
+
+CL-441 | Chemical Manufacturing | High | 7 | ExecRelay
+CL-442 | Orbital Mining | Medium | 2 | Standard
+CL-443 | Private Logistics | High | 5 | ExecRelay
+CL-444 | Security Consultancy | Low | 1 | Civil
+CL-445 | Research & Materials | High | 4 | Blacksite
+
+Expanded Entry (CL-441):
+
+Client_ID: CL-441
+Legal Entity: MO Chemical
+Risk Category: High Liability
+Special Notes: “Requires Narrative Shielding”
+Primary Liaison: L. Haddar
+Associated Executive: A. Volker
+
+System Note:
+CL-441 linked to 3 convoy reclassification events.
+
+EmoChemical_subsidy_record.pdf
+Access Level: 4
+
+Summary of Subsidies & Financial Offsets
+
+Quarterly Offset Summary:
+
+Q1 – 3,800,000 (Transit Risk Coverage)
+Q2 – 5,200,000 (Operational Shielding)
+Q3 – 2,900,000 (Narrative Containment)
+Q4 – 4,100,000 (Infrastructure Expansion – Blacksite)
+
+Internal Projection Note:
+
+“Projected revenue from acid derivative compounds increases 28% following corridor adjustment.”
+
+Appendix C (Restricted):
+
+“External incident narratives contribute to reduced regulatory scrutiny.”

@@ -1,0 +1,84 @@
+discretionary_fund_reports.xlsx
+Access Level: 3
+Sheet Overview:
+
+Columns:
+Quarter | Allocation_Code | Division | Amount | Justification | Approved_By
+
+Q1 | DF-771-A | Logistics | 1,240,000 | Transit Risk Adjustment | A.Volker
+Q1 | DF-771-B | PR | 430,000 | Narrative Stabilization | Exec Board
+Q2 | DF-882-C | Blacksite Ops | 3,100,000 | Facility Expansion | Board
+Q2 | DF-901-D | Legal | 870,000 | Confidential Settlement | A.Awad (External)
+Q3 | DF-903-E | Intelligence | 520,000 | Civilian Cluster Monitoring | Exec
+Q3 | DF-904-F | CyberOps | 310,000 | Relay Masking Upgrade | M.Rasmussen
+Q4 | DF-910-K | Logistics | 2,480,000 | Hazardous Material Insurance | Exec
+
+Note: DF-771-A approved 18 minutes before Convoy Theta-9 route alteration.
+
+blackline_budget_adjustments.pdf
+Classification: Executive Internal
+Access Level: 4
+
+Summary of retroactive adjustments:
+
+— Convoy Theta-9 reclassified under “Operational Testing Event”.
+— Personnel loss insurance covered under discretionary fund (DF-771-A).
+— PR budget increased 63% within 48 hours post-incident.
+— Legal consultation fees reallocated to “External Compliance”.
+— Chemical shipment margin projections remain unaffected.
+
+Appendix B (Restricted):
+“Projected financial gain outweighs operational loss by 14.7%.”
+
+external_consulting_payments.log
+Access Level: 3
+
+Columns:
+Consultant_ID | Entity | Service_Type | Amount | Date | Linked_Event
+
+EC-4401 | MO Chemical | Regulatory Shielding | 2,900,000 | Q2 | Shipment Batch A-77
+EC-4402 | Private Legal Asset | Settlement Negotiation | 870,000 | Q2 | Civilian Claim
+EC-4410 | Media Analytics Group | Public Sentiment Analysis | 430,000 | Q1 | Fringe Explosion
+EC-4413 | Independent Security Audit | Risk Attribution Modeling | 220,000 | Q1 | Theta-9
+EC-4419 | Unlisted | Strategic Loss Forecast | 1,100,000 | Q1 | Classified
+
+Consultant “Unlisted” shares routing node with Executive Oversight.
+
+humanitarian_relocation_fund.csv
+Access Level: 3
+
+Columns:
+Consultant_ID | Entity | Service_Type | Amount | Date | Linked_Event
+
+EC-4401 | MO Chemical | Regulatory Shielding | 2,900,000 | Q2 | Shipment Batch A-77
+EC-4402 | Private Legal Asset | Settlement Negotiation | 870,000 | Q2 | Civilian Claim
+EC-4410 | Media Analytics Group | Public Sentiment Analysis | 430,000 | Q1 | Fringe Explosion
+EC-4413 | Independent Security Audit | Risk Attribution Modeling | 220,000 | Q1 | Theta-9
+EC-4419 | Unlisted | Strategic Loss Forecast | 1,100,000 | Q1 | Classified
+
+Consultant “Unlisted” shares routing node with Executive Oversight.
+
+incident_cleanup_expenses/
+cleanup_theta9_report.pdf
+
+— Debris recovery: 340,000
+— Biological Remains Processing: 190,000
+— Dock Decontamination: 880,000
+— Legal Notification Services: 240,000
+— Data Containment Audit: 610,000
+
+Total: 2,260,000
+
+Note: “Surviving Asset Compensation” excluded from report.
+
+cleanup_Moon_delta.pdf
+
+— Equipment Retrieval: 1,900,000
+— Personnel Classification Update: 0 (handled internally)
+— Communication Blackout Extension: 420,000
+
+cleanup_fringe_explosion_media.pdf
+
+— Press Narrative Drafting: 110,000
+— Automated Bot Amplification: 75,000
+— Third-Party Attribution Study: 210,000

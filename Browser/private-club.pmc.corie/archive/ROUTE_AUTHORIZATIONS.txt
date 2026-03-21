@@ -1,0 +1,130 @@
+convoy_route_changes.log
+File Type: System Log
+Access Level: 3
+Integrity: 98% (2 entries flagged “post-edit”)
+
+[Entry ID: CR-7712]
+Convoy: Theta-9
+Original Route: Corridor Delta-Outer
+Modified Route: Fringe Transit Corridor (Sector C-17 bypass)
+Requested by: Logistics Unit
+Approved by: Executive Oversight (A. Volker)
+Timestamp: 02:24
+Reason Code: Environmental Hazard (Unverified)
+
+[Entry ID: CR-7713]
+Convoy: Theta-9
+Additional Adjustment: Speed Reduction – 12%
+Reason Code: Structural Instability (Archived Notice)
+Timestamp: 02:31
+
+[Entry ID: CR-7714]
+Convoy: Theta-9
+Manual Override Flag Detected
+Source: Executive Terminal
+Timestamp: 02:37
+Note: Override justification not attached.
+
+[Entry ID: CR-8821]
+Convoy: Sigma-4
+Route rerouted through Private Dock Registry
+Reason Code: Chemical Transport Reclassification
+Approved by: C. Mendez
+
+[System Notice]
+Two route alteration entries appended after detonation timestamp.
+
+override_requests.csv
+File Type: Tabular Data
+Access Level: 2
+
+Columns:
+Request_ID | Unit | Asset | Reason_Code | Approved_By | Time_Delta | Status
+
+OR-1132 | Logistics | Theta-9 | EnvHaz-17 | A.Volker | -00:17 | Approved
+OR-1133 | Logistics | Theta-9 | Instab-44 | ExecTerminal | -00:10 | Approved
+OR-1134 | CyberOps | Internal Relay | SignalMask | M.Rasmussen | +00:03 | Approved
+OR-1140 | Logistics | Sigma-4 | ChemShift | C.Mendez | -01:02 | Approved
+OR-1155 | Section13 | Outpost Delta | Clearance Escalation | ExecTerminal | -00:04 | Approved
+
+Note: Negative Time_Delta indicates approval prior to reported trigger event.
+
+emergency_reclassification_forms/
+ERCF-19C.pdf
+
+Asset: Convoy Theta-9
+Reclassification: Industrial Chemical → Hazardous Research Material
+Effective Timestamp: 02:29
+Signed: Executive Oversight
+
+Annotation:
+“Material sensitivity exceeds original classification. Field discretion authorized.”
+
+ERCF-27M.pdf
+
+Asset: Civilian Cluster – Fringe Sector
+Reclassification: Activist Cell
+Justification: Interference with Corporate Transit
+Signed: Intelligence Division
+
+ERCF-33D.pdf
+
+Asset: Section 13 Personnel (Moon)
+Reclassification: Non-Operational
+Cause: Exposure Risk
+Signed: Executive
+
+transit_clearance_codes.db
+File Type: Database Snapshot
+Access Level: 3
+
+Table: ACTIVE_CORRIDORS
+
+Corridor_ID | Status | Oversight_Node | Notes
+
+C-17 | Restricted | ExecRelay | Elevated sensitivity
+Delta-Outer | Stable | Standard | Default Route
+Dock-Private-4 | Sealed | External Partner | MO Chemical
+Administrative Hold-Link-01 | Classified | Blacksite Node | Hidden
+
+Table: TEMP_CLEARANCE
+
+Code | Issued_To | Valid_For | Duration
+
+T9-PRIORITY | Theta-9 | C-17 | 00:30
+SIG-MASK-02 | CyberOps | Internal Relay | 00:10
+DELTA-ESC | Section 13 | Moon Outpost | 00:05
+
+Administrative Hold-Link-01 entry visible but inaccessible.
+
+sealed_corridor_access.log
+File Type: Security Log
+Access Level: 4
+
+[Access 01]
+Corridor: C-17
+User: M.Vale
+Authorization: Temporary Escort Clearance
+Time: 02:38
+
+[Access 02]
+Corridor: C-17
+User: ExecTerminal
+Authorization: Manual Override
+Time: 02:39
+
+[Access 03]
+Corridor: Administrative Hold-Link-01
+User: A.Volker
+Authorization: Direct
+Time: 03:02
+
+[Access 04]
+Corridor: Dock-Private-4
+User: L.Haddar
+Authorization: Client Liaison
+Time: 01:14
+
+[System Warning]
+Access log discrepancy detected:
+Corridor C-17 remained “open” for 3 minutes after detonation event.

@@ -1,0 +1,15 @@
+* [employeesinfo](employeesinfo.txt)
+* [EXECUTIVE](./EXECUTIVE.txt)
+* [ROUTE_AUTHORIZATIONS](./ROUTE_AUTHORIZATIONS.txt)
+* [BUDGET_REALLOCATION](./BUDGET_REALLOCATION.txt)
+* [LEGAL_COMPLIANCE](./LEGAL_COMPLIANCE.txt)
+* [PERSONNEL_OVERSIGHT](./PERSONNEL_OVERSIGHT.txt)
+* [EXTERNAL_PARTNERS](./EXTERNAL_PARTNERS.txt)
+* [Operation : Bullseye.  Enceladus orbital scouting mission.](./Operation%20Bullseye.txt)
+* [Operation: Shattered Hope](./Operation%20Shattered%20Hope.txt)
+* [Security mission : Delta 8](./Security%20mission%20Delta%208.txt)
+* [Operation : Dark Star](./Operation%20Dark%20Star.txt)
+* [Intercept :  "Cold Coffee"](./Intercept%20Cold%20Coffee.txt)
+* [News report:  Assassination at the Grand Ball.](./News%20report%20Assassination%20at%20the%20Grand%20Ball.txt)
+
+The reports up to `News report:  Assassination at the Grand Ball.` are unlocked by getting a clearance level 2 via [PrivateClubID18102000administrativedata](/Terminal/PrivateClubID18102000administrativedata.md) in the terminal.

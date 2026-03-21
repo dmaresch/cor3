@@ -1,0 +1,121 @@
+clearance_escalation_requests/
+CER-1901.pdf
+
+Subject: Markus Vale (PC-0101)
+Current Clearance: Level 3
+Requested Clearance: Level 4 (Temporary)
+Reason: Post-Incident Debrief & Executive Consultation
+Requested by: Executive Oversight
+Approved: Yes
+Duration: 48 hours
+
+Annotation:
+Escalation approved 6 hours after Theta-9 detonation.
+
+CER-1933.pdf
+
+Subject: Daniel Novak (PC-0097)
+Current Clearance: Level 5
+Requested Clearance: Level 5 – Expanded Internal Access
+Reason: Moon Incident Review
+Status: Approved
+Duration: 12 hours
+
+Note: Access window closed 17 minutes prior to reclassification.
+
+CER-1977.pdf
+
+Subject: Tomas Heimer (PC-0099)
+Requested Clearance: Executive Briefing Tier
+Status: Approved (Manual Override)
+Duration: 00:05
+
+Annotation:
+Briefing transcript not attached.
+
+psychological_re-evaluations.log
+Columns:
+Employee_ID | Trigger_Event | Evaluation_Result | Recommendation
+
+PC-0101 | Theta-9 | Stable | Reinstate
+PC-0097 | Moon Delta | Cognitive Deviation | Restrict
+PC-0099 | Moon Delta | Loyalty Drift | Monitor
+PC-0076 | Administrative Hold Facility | Desensitization | No Action
+PC-0088 | Client Oversight | Stress Indicators | Continue
+
+System Note:
+Three evaluations updated after classification change.
+
+internal_disciplinary_actions/
+IDA-441.pdf
+
+Subject: Unnamed Section 13 Operator
+Violation: Unauthorized Inquiry into Route Alterations
+Action: Clearance Suspension
+Outcome: Reclassified Non-Operational
+
+IDA-448.pdf
+
+Subject: CyberOps Analyst
+Violation: Accessed Directive Registry without escalation
+Action: Written Warning
+Note: Analyst transferred to Relay Masking Unit
+
+IDA-452.pdf
+
+Subject: Logistics Officer
+Violation: Questioned hazard reclassification timing
+Action: Administrative Leave
+Status: Returned with modified NDA
+
+identity_reassignment_forms/
+IRF-33D-A.pdf
+
+Subject: Section 13 Operator
+Original ID: [Redacted]
+New Status: Non-Operational
+Identity Flag: Archived
+
+IRF-33D-B.pdf
+
+Subject: Tomas Heimer
+Original Status: Active
+New Classification: Terminated
+Continuity Marker: Pending
+
+Annotation:
+“Continuity does not require biological persistence.”
+
+IRF-41K.pdf
+
+Subject: Daniel Novak
+Original Status: Active
+New Status: Deceased (Operational Failure)
+Body Recovery: Not Confirmed
+
+System Comment:
+Identity assets transferred.
+
+non-operational_classification_reports/
+NOCR-771.pdf
+
+Subject: Convoy Personnel – Theta-9
+Status: Non-Operational
+Cause: External Sabotage
+Attribution: Fringe Activist Cell
+
+Note: One survivor excluded from classification.
+
+NOCR-882.pdf
+
+Subject: Section 13 – Moon Outpost Delta
+Status: Non-Operational (2 assets)
+Cause: Environmental Failure
+
+NOCR-903.pdf
+
+Subject: Civilian Cluster Flag – JJ
+Status: Removed from Watchlist
+Reason: No Longer Active Threat
+
+Timestamp: 2 weeks prior to disappearance report.
