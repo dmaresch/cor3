@@ -11,5 +11,13 @@
 * [Operation : Dark Star](./Operation%20Dark%20Star.txt)
 * [Intercept :  "Cold Coffee"](./Intercept%20Cold%20Coffee.txt)
 * [News report:  Assassination at the Grand Ball.](./News%20report%20Assassination%20at%20the%20Grand%20Ball.txt)
+* [Project  Schwarze Sonne 1](./Project%20Schwarze%20Sonne%201.txt)
+* [Project  Schwarze Sonne 2](./Project%20Schwarze%20Sonne%202.txt)
+* [Project  Schwarze Sonne 3](./Project%20Schwarze%20Sonne%203.txt)
+* [Project  Schwarze Sonne 4](./Project%20Schwarze%20Sonne%204.txt)
+* [Project  Schwarze Sonne 5](./Project%20Schwarze%20Sonne%205.txt)
+* [Project  Schwarze Sonne, supplemental.](./Project%20Schwarze%20Sonne,%20supplemental.txt)
 
 The reports up to `News report:  Assassination at the Grand Ball.` are unlocked by getting a clearance level 2 via [PrivateClubID18102000administrativedata](/Terminal/PrivateClubID18102000administrativedata.md) in the terminal.
+
+The "Project  Schwarze Sonne" reports are unlocked by achieving a clearance level 3 via [PrivateClubID20011410customersdata](/Terminal/PrivateClubID20011410customersdata.md) in the terminal.
