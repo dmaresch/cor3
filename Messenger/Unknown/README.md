@@ -21,3 +21,16 @@ After solving the connection to [privateclubID441538964employeesinfo in the term
 
 > [!IMPORTANT]  
 > The value of `--token=` is different for each player.  
+
+After reading the [Ghost site](/Browser/private-club.pmc.corie/archive/Ghost%20site.txt) report on [private-club.pmc.corie](/Browser/private-club.pmc.corie/), it is possible to message Unkown again. After a brief message exchange, the Unknown says:
+
+> There is a lunar orbital reconnaissance satellite. PMC mirror node. It logs traffic in the debris sector.
+> 
+> It is not public.
+> 
+> You will connect. You will breach it. You will extract its internal scan logs. If our cargo is still out there — those logs will show it.
+> 
+> And while you do it, and I hope you'll succeed - we will find a team suitable to make that madness work out.
+
+> Address to connect to the server:  
+> `connect moon_orbital_recon--password=Gsdfg53254Hsdfg`
