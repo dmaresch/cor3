@@ -18,4 +18,4 @@ After entering the command `register node --id=PrivateClubID441538964employeesin
 > Archive updated.  
 > Z3JhbnQgcm9sZSA=
 
-The string `Z3JhbnQgcm9sZSA=` decodes from base64 to `grant role `, which will be useful at a [further stage](./PrivateClubID18102000administrativedata.md).
+The string `Z3JhbnQgcm9sZSA=` decodes from Base64 to `grant role `, which will be useful at a [further stage](./PrivateClubID18102000administrativedata.md).

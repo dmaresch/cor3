@@ -4,15 +4,15 @@
 > Remote node view disabled.  
 > To bind this node to your web session,  
 > register the node using your web credentials.  
-> Use command register node --id=<SERVER_ID> --user=<LOGIN>
+> Use command register node --id=&lt;SERVER_ID&gt; --user=&lt;LOGIN&gt;
 
-`register node --id=PrivateClubID18102000administrativedata --user=ops.review_4415`
+Entering the command `register node --id=PrivateClubID18102000administrativedata --user=ops.review_4415` results in the following:
 
 > Node successfully bound to web session.  
 > Archive updated.  
 > N0Y5QS1ERUxUQQ==
 
-The string `N0Y5QS1ERUxUQQ==` decodes from base64 to `7F9A-DELTA`. Combining it with similar strings from [PrivateClubID441538964employeesinfo](./PrivateClubID441538964employeesinfo.md) and [PrivateClubID71527152operationsarchive](./PrivateClubID71527152operationsarchive.md) results in the command `grant role --auth=CL2-7F9A-DELTA`. Running it in the terminal gives the following output:
+The string `N0Y5QS1ERUxUQQ==` decodes from Base64 to `7F9A-DELTA`. Combining it with similar strings from [PrivateClubID441538964employeesinfo](./PrivateClubID441538964employeesinfo.md) and [PrivateClubID71527152operationsarchive](./PrivateClubID71527152operationsarchive.md) results in the command `grant role --auth=CL2-7F9A-DELTA`. Running it in the terminal gives the following output:
 
 > Authorizing...  
 > Credential accepted.  

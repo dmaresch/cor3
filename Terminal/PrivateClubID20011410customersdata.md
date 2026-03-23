@@ -6,7 +6,6 @@
 > register the node using your web credentials.  
 > Use command register node --id=&lt;SERVER_ID&gt; --user=&lt;LOGIN&gt;
 
-
 Entering the command `register node --ID=PrivateClubID20011410customersdata --user=ops.review_4415` results in the following:
 
 > Node successfully bound to web session.  

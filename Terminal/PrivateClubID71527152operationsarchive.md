@@ -4,7 +4,7 @@
 > Remote node view disabled.  
 > To bind this node to your web session,  
 > register the node using your web credentials.  
-> Use command register node --id=\<SERVER_ID> --user=\<LOGIN>
+> Use command register node --id=&lt;SERVER_ID&gt; --user=&lt;LOGIN&gt;
 
 Entering the command `register node --id=PrivateClubID71527152operationsarchive --user=ops.review_4415` gives:
 
@@ -12,4 +12,4 @@ Entering the command `register node --id=PrivateClubID71527152operationsarchive 
 > Archive updated.  
 > LS1hdXRoPUNMMi0=
 
-The string `LS1hdXRoPUNMMi0=` decodes from base64 to `--auth=CL2-`, which will be useful at a [further stage](./PrivateClubID18102000administrativedata.md).
+The string `LS1hdXRoPUNMMi0=` decodes from Base64 to `--auth=CL2-`, which will be useful at a [further stage](./PrivateClubID18102000administrativedata.md).
