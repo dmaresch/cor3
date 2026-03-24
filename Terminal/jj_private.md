@@ -18,13 +18,13 @@
 > -[INT-JF-67.txt](./jj_private/INT-JF-67.txt)    
 > -[incident_report.txt](./jj_private/incident_report.txt)  
 > -[archived_graver_forum_thread.txt](./jj_private/archived_graver_forum_thread.txt)      
-> -[untitled_file_01.txt](./jj_private/untitled_file_01.txt)     
-> -[untitled_file_02.txt](./jj_private/untitled_file_02.txt)     
-> -[untitled_file_03.txt](./jj_private/untitled_file_03.txt)     
-> -[untitled_file_04.txt](./jj_private/untitled_file_04.txt)     
-> -[untitled_file_05.txt](./jj_private/untitled_file_05.txt)     
-> -[untitled_file_06.txt](./jj_private/untitled_file_06.txt)     
-> -[untitled_file_07.txt](./jj_private/untitled_file_07.txt)
+> -[untitled_file_01.txt](./jj_private/untitled_file_01.txt.md)     
+> -[untitled_file_02.txt](./jj_private/untitled_file_02.txt.md)     
+> -[untitled_file_03.txt](./jj_private/untitled_file_03.txt.md)     
+> -[untitled_file_04.txt](./jj_private/untitled_file_04.txt.md)     
+> -[untitled_file_05.txt](./jj_private/untitled_file_05.txt.md)     
+> -[untitled_file_06.txt](./jj_private/untitled_file_06.txt.md)     
+> -[untitled_file_07.txt](./jj_private/untitled_file_07.txt.md)
 
 Type filename to read.
 
