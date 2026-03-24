@@ -81,3 +81,7 @@ And that company - "QQ Energy", I need to find more about it probably, but maybe
 It would be a solid thing to get information about Camp Vernon, whatever that is. And if i am lucky - might be worth it to get the guy out of there. He may be of use to me. Besides, this story is becoming more and more complex and I feel that Vladimir is also not telling me everything either.
 
 I think it is time to contact my new friends in PALIMPEST and ask for another favor. No doubt that will cost me, but there is no other way around.
+
+One object stands out. DC7-447-X. Shuttle-scale. Thermal core variance. EM pockets. Triple echo profile.
+
+That's not random debris. Someone flagged it manually. And then the logs were cut.

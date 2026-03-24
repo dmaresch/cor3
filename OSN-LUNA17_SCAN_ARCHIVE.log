@@ -1,0 +1,62 @@
+ORBITAL SURVEILLANCE NODE
+OSN-LUNA-17
+Sector: DEBRIS_CLUSTER_07
+Classification: INTERNAL / PMC
+--------------------------------------------------
+TIMESTAMP: 22:14:03
+OBJECT ID: DC7-441-A
+VIS: metallic fragment cluster
+IR: rapid thermal decay
+EM: negligible
+RADIO: multi-peak diffuse
+STATUS: debris field
+--------------------------------------------------
+TIMESTAMP: 22:16:48
+OBJECT ID: DC7-442-H
+VIS: hull fragment (medium)
+IR:
+  T0=309K
+  dT/min=-17K
+  delta_core=+4K
+  heterogeneity=0.21
+EM:
+  baseline=19
+  pocket_index=0.12
+RADIO:
+  peaks=2
+STATUS: empty hull
+--------------------------------------------------
+TIMESTAMP: 22:21:12
+OBJECT ID: DC7-447-X
+VIS: shuttle-scale structure
+IR:
+  T0=312K
+  dT/min=-14K
+  delta_core=+9K
+  heterogeneity=0.48
+  hotspot_count=1
+  hotspot_persistence=64s
+EM:
+  baseline=24
+  variance=18
+  pocket_index=0.51
+  pocket_count=2
+RADIO:
+  peaks=3
+  peak_profile=[12ms, 37ms, 52ms]
+STATUS: flagged – anomalous
+--------------------------------------------------
+TIMESTAMP: 22:22:02
+OBJECT ID: DC7-447-X
+Additional internal note:
+Manual override requested.
+Log transfer attempt.
+Signal interruption detected.
+--------------------------------------------------
+TIMESTAMP: 22:23:40
+OBJECT ID: DC7-447-X
+Signal lost.
+Telemetry rerouted.
+END OF ARCHIVE
+Note: Fragment of telemetry missing.
+Possible manual extraction prior to loss.

@@ -33,4 +33,4 @@ After reading the [Ghost site](/Browser/private-club.pmc.corie/archive/Ghost%20s
 > And while you do it, and I hope you'll succeed - we will find a team suitable to make that madness work out.
 
 > Address to connect to the server:  
-> `connect moon_orbital_recon--password=Gsdfg53254Hsdfg`
+> `connect moon_orbital_recon --password=Gsdfg53254Hsdfg`
