@@ -8,13 +8,13 @@ Fragments on the timeline:
 2. [x17c_92aa](./x17c_92aa.mp4)
 3. [fe_55_gdr](./fe_55_gdr.mp3) - 2027
 4. [r_cache_7f2b](./r_cache_7f2b.png) - 2027
-5. [snd_44100_aa19](snd_44100_aa19.mp4) - 2040
-6. dump_k3_91f - 2045 - locked video
+5. [snd_44100_aa19](./snd_44100_aa19.mp4) - 2040
+6. [dump_k3_91f](./dump_k3_91f.mp4) - 2045
 7. [v_02c9_err](./v_02c9_err.mp4) - 2051
 8. [uio_sync_771](./uio_sync_771.mp4) - 2066
 9. [rec_19_11_00](./rec_19_11_00.mp3) - 2066
-10. frame_88291 - 2074 - locked video
-11. out_ch7_bk - 2074 - locked audio
+10. [frame_88291](./frame_88291.mp4) - 2074
+11. [out_ch7_bk](./out_ch7_bk.mp3) - 2074
 12. [sfx__004___a](./sfx__004___a.png) - 2102 - before its removal was [this](./sfx__004___a.old.png)
 13. [pxl_aa7719](./pxl_aa7719.mp4) - 2105 - locked video
 14. [stream_0x4f9e](./stream_0x4f9e.png) - 2110
