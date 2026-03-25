@@ -85,3 +85,13 @@ I think it is time to contact my new friends in PALIMPEST and ask for another fa
 One object stands out. DC7-447-X. Shuttle-scale. Thermal core variance. EM pockets. Triple echo profile.
 
 That's not random debris. Someone flagged it manually. And then the logs were cut.
+
+Who is that guy ? All those documents … holy shit. Camo cloak ? Energy weapons ? It's rare even for CORE. I need to try and find him somehow, but it may as well be impossible.
+
+Although, I wonder why all those documents were left on the base. Like someone wanted me to find them. This is getting super weird.
+
+I can not believe all this, it's like in a god damn movie ! It's just impossible.
+
+But nevertheless, I need to hope for the best. The only last clue I have is "QQ Energy". Finding out about that company could lead me to the guy.
+
+If that would lead nowhere then I'll just have to hope for the best and try some other means to find her.
