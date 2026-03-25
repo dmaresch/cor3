@@ -1,3 +1,8 @@
+## 25th March
+```
+The sabotage triggered emergency protocols. The crew is dealing with the aftermath. Wait for the situation to develop.
+```
+
 ## 21st March
 ~24 hours after reaching opening messages with [Silver Odyssey Ship Channel](/Messenger/Silver%20Odyssey%20Ship%20Channel/)
 ```
