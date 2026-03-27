@@ -1,13 +1,20 @@
+## 27th March
+```
+Check your messages — you've received a notification from the Silver Odyssey ship channel. Try visiting the portal link they sent.
+```
+
 ## 25th March
 ```
 The sabotage triggered emergency protocols. The crew is dealing with the aftermath. Wait for the situation to develop.
 ```
+Related to the [cleaner minigame](./Terminal/cleaner_bot_4_2.md).
 
 ## 21st March
 ~24 hours after reaching opening messages with [Silver Odyssey Ship Channel](/Messenger/Silver%20Odyssey%20Ship%20Channel/)
 ```
 Someone named Charlie left a message in the ship channel. Read it carefully — there's a bot address and a password hidden in the text. Try connecting via CLI.
 ```
+Hint for connecting to [cleaner_bot_4_2](./Terminal/cleaner_bot_4_2.md).
 
 ## 16th March UTC ~17:00 UTC
 ```
