@@ -17,6 +17,7 @@ Only some sites get automatically added to the Browser sidebar, likely indicatin
 * [Reports Archive](./viibot.corie/)
 * [Silo local](./silo.local.corie/)
 * [Trade & Shipment Database](./trade-shipment.corie/)
+* [Velluto](./velluto.club/)
 
 
 The site https://viibot.corie/archives can be obtained from [Simon Webb](/Messenger/Simon%20Webb/).  
