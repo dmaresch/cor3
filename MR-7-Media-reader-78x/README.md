@@ -17,7 +17,7 @@ Fragments on the timeline:
 10. [frame_88291](./frame_88291.mp4) - 2074
 11. [out_ch7_bk](./out_ch7_bk.mp3) - 2074
 12. [sfx__004___a](./sfx__004___a.png) - 2102 - before its removal was [this](./sfx__004___a.old.png)
-13. [pxl_aa7719](./pxl_aa7719.mp4) - 2105 - locked video
+13. [pxl_aa7719](./pxl_aa7719.mp4) - 2105
 14. [stream_0x4f9e](./stream_0x4f9e.png) - 2110
 15. [aud_legacy_12](./aud_legacy_12.png) - 2113
 16. [capture__lost_003](./capture__lost_003.png) - 2185
