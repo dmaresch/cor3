@@ -1,4 +1,5 @@
-Supplement to the report on work in the cargo hold:                                                                          
+Supplement to the report on work in the cargo hold:
+
 After clearing the container heap in the hold, the crew initiated diagnostics on the Fetcher 2 AMR logistics robot (Fetcher_242 unit) to assess the damage. Attempts were also made to restore its functionality.
 
 Diagnostics showed that the damage were received:
