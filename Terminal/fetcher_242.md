@@ -15,6 +15,9 @@
 > Software - I35-2443  
 > Test mode - disabled, use command \\Test_mode 1 to enable debug feature  
 
+After enabling test mode, the last line instead says  
+> Test mode - enabled, use command \\Test_mode 0 to disable debug feature
+
 ## `f2_fetch_request`
 > [ERROR] ERROR P0A80
 
