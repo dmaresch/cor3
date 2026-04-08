@@ -162,6 +162,10 @@ After solving all 4 initial loops, an option to buy a ticket to a ship to Mars a
 
 ![banner-status-ready](./Misc%20assets/banner-status-ready.png) → ![banner-status-incoming](./Misc%20assets/banner-status-incoming.png)
 
-Clicking the banner leads to a new site https://m7.repnodemassive.tech/, which displayed a countdown to Sunday, February 1, 2026 15:00:00 GMT. After the countdown ended, the https://www.youtube.com/watch?v=X9kqyqswsL8 video showed up.
+Clicking the banner leads to a new site https://m7.repnodemassive.tech/, which displayed a countdown to Sunday, February 1, 2026, 15:00:00 GMT. After the countdown ended, the https://www.youtube.com/watch?v=X9kqyqswsL8 video showed up.
 
 At the same time the loops in Act 2 started.
+
+After going through everything on the [jj_private](/Terminal/jj_private.md) server and talking to both [Vladimir Semakin](/Persons/Vladimir%20Semakin/) and [James Curtis Fung](/Persons/James%20Curtis%20Fung/), the following banner with a ship arrival appears again, this time counting down to Sunday, April 12, 2026, 17:00:00 GMT.
+
+![](/Misc%20assets/banner-ship2.png)
