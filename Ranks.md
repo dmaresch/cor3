@@ -1,3 +1,18 @@
+## ![](https://cdn.cor3.gg/corie/ranks/badges/foundation.svg) Foundation
+> No fixed route earned this mark.  
+> The system recognized a viable base state.
+
+### Privileges
+| name | description | limited? |
+|-|-|-|
+| Foundation Badge | granted | no |
+| Early Access Consideration | low probability | yes |
+
+> Evaluated by story completion percentage, corporation reputation, and total credit turnover.  
+> This mark places you in the low-probability pool for early access consideration.  
+> Everything from here still counts.  
+> // A BASE IS ENOUGH TO BUILD ON. //
+
 ## ![](https://cdn.cor3.gg/corie/ranks/badges/pathfinder.svg) Pathfinder 
 > Entry point crossed.  
 > You are now part of COR3.  
