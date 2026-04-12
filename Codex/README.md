@@ -34,8 +34,8 @@
 
 ## News
 ### News
-* [News Bulletin #1](./News/News%20Bulletin%20#1.md)
-* [codex.progress.news_2.title_v1](./News/News%20Bulletin%20#2.md)
-* [News Bulletin #3](./News/News%20Bulletin%20#3.md)
-* [codex.progress.news_4.title_v1](./News/News%20Bulletin%20#4.md)
-* [News Bulletin #5](./News/News%20Bulletin%20#5.md)
+* [News Bulletin #1](./News/News%20Bulletin%20%231.md)
+* [codex.progress.news_2.title_v1](./News/News%20Bulletin%20%232.md)
+* [News Bulletin #3](./News/News%20Bulletin%20%233.md)
+* [codex.progress.news_4.title_v1](./News/News%20Bulletin%20%234.md)
+* [News Bulletin #5](./News/News%20Bulletin%20%235.md)
