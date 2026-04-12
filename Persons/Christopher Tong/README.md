@@ -18,4 +18,4 @@ CEDRT Ring 2 Engineer. Tech-savvy hobbyist with interest in drone construction.
 
 > [!NOTE]
 > Christopher Tong doesn't have the common 6-digit ID as his user id, but instead something in the same format as our own player id: `FREEL_019D4E49-6FC8`.  
-> It seems to be the same for all players, unlike the 6-digit IDs on other profiles.
+> It is the same for all players, unlike the 6-digit IDs on other profiles.

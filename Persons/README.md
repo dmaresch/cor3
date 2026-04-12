@@ -1,8 +1,6 @@
 People who's profiles display an UUID in their `User ID` field and haven't been used yet:
 * [Anton Vedernikov](./Anton%20Vedernikov/)
-* [Christopher Tong](./Christopher%20Tong/)
 * [Demeter Muggabee](./Demeter%20Muggabee/)
-* [Douglas Flanders](./Douglas%20Flanders/)
 * [Farhad Somrei](./Farhad%20Somrei/)
 * [German Titov](./German%20Titov/)
 * [Konrad Malloy](./Konrad%20Malloy/)
@@ -19,6 +17,13 @@ People with a 6-digit ID who can not be added as a contact in the messenger:
 * [Cassius Maelstrom](./Cassius%20Maelstrom/)
 * [James Curtis Fung](./James%20Curtis%20Fung/)
 * [Jean Flanders](./Jean%20Flanders/)
+
+People with a FREEL ID:
+* [Arthurus Monsk](./Arthurus%20Monsk/)
+* [Christopher Tong](./Christopher%20Tong/)
+* [Douglas Flanders](./Douglas%20Flanders/)
+* [Steven Blevsky](./Steven%20Blevsky/)
+* [Walter Black](./Walter%20Black/)
 
 People with 6-digit ID who have been used the story so far
 * [Augustus Nordman](./Augustus%20Nordman/) - related to [Reports/OPS_Archive.txt](/Reports/OPS_Archive.txt) and for some players [Investigation results, USOL CDC, 2192](/Investigation%20results,%20USOL%20CDC,%202192.md)
