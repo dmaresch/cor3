@@ -26,3 +26,31 @@ Here she mentions [Christopher Tong](/Persons/Christopher%20Tong/).
 This unlocks several entries in the [Codex](/Codex/) and updates the System version to `3.01`. Version `3.0` was granted by leaving the ship, before the player had version `2.0`.
 
 This dialogue also creates the folder [Chris_Tong_Intel](/Chris_Tong_Intel/) along with the two files [Dossier C.S. Tong.png](/Chris_Tong_Intel/Dossier%20C.S.%20Tong.png) and [Forum_Screenshot.png](/Chris_Tong_Intel/Forum_Screenshot.png).
+
+Player:
+> Hey. I took a look at the files you sent me about that Chris guy. I mean, he looks really weird. A solo work-driven technomaniac that creates weird dual purpose drones… and you guys say that CIS let him through? My gut tells me he is totally not ok! Is that another one of your agents?
+
+Aurana:
+> No, sadly no. We don't have much on him. He is really not a very social person. Did you check that link that was in the file?
+
+Player:
+> Yes, it leads to some sort of a server but seems to be corrupt. Or maybe I am missing something.
+
+This grants 2000 credits.
+
+Aurana:
+> Actually! Let me show you something. We have been developing that for you to use for a bit. Well, not only for you of course but you will be a beta-tester if you'd like. I'm adding a NETWORK MAP to your system. It's a new feature that helps you navigate all the servers you will find. Consider this like a location map or something like that.
+> 
+> It is also an intelligence tool which would show you nearby servers and nodes that would lead to remote locations. You can take a look at it later on of course, I am just giving you a brief description.
+> 
+> This NETWORK MAP currently shows only a small portion of what will be available to you later — just your Home Server and a few servers nearby. The program has many features and nuances, but the key thing to understand is that it allows you to build chains of connections between servers, linking them into a unified system. You can follow one branch at a time, connecting step by step, but you're free to change your route at any moment and reconfigure the chain differently.
+> 
+> When you connect to a server, you'll also see the servers linked to it. And once connected, you gain access to all the sites hosted on that server — which is exactly what we need right now.
+> 
+> Find the server RM7-E1L2CT — it's tied to the site you discovered earlier. Keep in mind it might be located behind another server, so try connecting through the nearby ones — experiment a bit, and you'll find the right path.
+
+Player:
+> I'll take a look and see what I can find.
+
+This raises the systemVersion to `3.02` and thus unlocks the "Network Map" and "Loadout" tools on the taskbar.
+

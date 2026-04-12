@@ -1,4 +1,31 @@
-## 12th April
+## Act 3
+```
+New program available: Network Map.
+It visually displays nearby servers and allows route construction between them.
+By building routes, you can:
+— discover new servers;
+— access websites hosted on them;
+— enter the Server Administration Interface if access rights are available.
+Build a route to RM7-E1L2CT and attempt to access the site again.
+```
+After talking to [Aurana](/Messenger/Aurana%20Strogova/) and unlocking the Network Map tool.
+
+```
+Report your findings.
+Contact Aurana and share the new information.
+```
+After opening opening [the files about Chris Tong](/Chris_Tong_Intel/).
+
+```
+New assignment received from Aurana.
+New files have been added to the Chris_Tong_Intel folder — review their contents.
+Also, locate Chris Tong’s profile using the Database in Messenger.
+Use the command: PERSON Chris Tong.
+```
+After chatting with [Aurana](/Messenger/Aurana%20Strogova/) for the first time after disembarking from the ship.
+
+The actual command is `PERSON Christopher Tong`.
+
 ```
 Start with the journal.  
 Open diary.txt to review recent events. Then check Messenger — Aurana is waiting for your response.

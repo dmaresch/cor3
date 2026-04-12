@@ -1,5 +1,6 @@
 People who's profiles display an UUID in their `User ID` field and haven't been used yet:
 * [Anton Vedernikov](./Anton%20Vedernikov/)
+* [Christopher Tong](./Christopher%20Tong/)
 * [Demeter Muggabee](./Demeter%20Muggabee/)
 * [Douglas Flanders](./Douglas%20Flanders/)
 * [Farhad Somrei](./Farhad%20Somrei/)

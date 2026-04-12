@@ -7,6 +7,7 @@ Changing the location within the browser consumes your bandwidth.
 
 Only some sites get automatically added to the Browser sidebar, likely indicating that they are important:
 * [Astrocrop Archive](./archive.corie/)
+* [CiTo16 Drone Files](./cito16-storage.corie/)
 * [CoreTech](./coretech.corie/)
 * [CORIE System](./welcome.corie/)
 * [F-10BT UST](./f-10bt-ust/)
