@@ -133,12 +133,20 @@ Path related to the Nutcracker website
 #### gjklfdvjcskjdhvfgkjhjkevh3jk43
 * [record_1043](./Silver%20Odyssey%20Files/record_1043.mp3) - [43hgkjfngkjekjcngjkb4kj3hcwkjhmklhjmlk3h2k](https://cdn.cor3.gg/corie/loops/acts/2/gjklfdvjcskjdhvfgkjhjkevh3jk43/43hgkjfngkjekjcngjkb4kj3hcwkjhmklhjmlk3h2k.mp3)
 
----
-
 ### timeline
 * [sfx__004___a](/MR-7-Media-reader-78x/sfx__004___a.png) - [12_lunacolony_security](https://cdn.cor3.gg/corie/timeline/12_lunacolony_security.png) - the link is not working since about the 3rd February
 
+---
+
+### loops acts 3
+#### jkr4h3gk2jhckjbrtnkjvcshdkjdsd
+* [Dossier C.S. Tong.png](/Chris_Tong_Intel/Dossier%20C.S.%20Tong.png) - [gfnkljerklvbjrtlkcldskfjblkfgjn](https://cdn.cor3.gg/corie/loops/acts/3/jkr4h3gk2jhckjbrtnkjvcshdkjdsd/gfnkljerklvbjrtlkcldskfjblkfgjn.png)
+* [Forum_Screenshot.png](/Chris_Tong_Intel/Forum_Screenshot.png) - [klnjmtyylkbevrjwlkvnjklrbevjklv](https://cdn.cor3.gg/corie/loops/acts/3/jkr4h3gk2jhckjbrtnkjvcshdkjdsd/klnjmtyylkbevrjwlkvnjklrbevjklv.png)
+
+---
+
 ### ranks
+* Foundation - [badges/foundation](https://cdn.cor3.gg/corie/ranks/badges/foundation.svg) - [images/foundation](https://cdn.cor3.gg/corie/ranks/images/foundation.png)
 * Pathfinder - [badges/pathfinder](https://cdn.cor3.gg/corie/ranks/badges/pathfinder.svg) - [images/pathfinder](https://cdn.cor3.gg/corie/ranks/images/pathfinder.png)
 * Torchbearer - [badges/torchbearer](https://cdn.cor3.gg/corie/ranks/badges/torchbearer.svg) - [images/torchbearer](https://cdn.cor3.gg/corie/ranks/images/torchbearer.png)
 * The Pillar - [badges/the_pillar](https://cdn.cor3.gg/corie/ranks/badges/the_pillar.svg) - [images/the_pillar](https://cdn.cor3.gg/corie/ranks/images/the_pillar.png)

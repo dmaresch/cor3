@@ -1,0 +1,89 @@
+Mars … it took me some time to get here. And plenty of effort. Not once have I asked myself if it was really worth it. Getting so deeply involved with all these people is probably a really bad choice for a guy like me, without a clear goal. But at the same time … I have been a rolling stone for quite some time, so this was a breath of fresh air for what it's worth.
+
+ 
+
+I'v was  kinda stranded in my "old" bunk only a few months ago. Has been a jack of all trades for quite some time now, with the amount of jobs I did … well, let's be honest here, the list was getting really short. 
+
+Private Investigator - this seemed like a super cool idea, especially for a guy like me, with extensive experience in life. Get to know new people ! Uncover secrets ! Get Paid !  Dream job.  But I did not have high hopes because people like that need to have connections which I did not really have. Only my ex-mercenary experience and some experience within the police force gave me hope.
+
+But like someone said to me - you won't know till you try ! 
+
+So, when I got the job offer from those History Unfolded guys … let's say I was surprised and very excited. 
+
+The contract that they sent me was really weird, and honestly, contradicting itself. But who was I to challenge that ?  After all, a really pretty handler, which went by "Aurana Strogova" was assigned to me.  
+
+Honestly - she was really cold with me initially. Like more than just "professional", I felt some animosity even. 
+
+But that did not affect much. The tasks have started to roll. 
+
+My job was to uncover some old secrets that were buried deep enough so that the "common folk" would not be able to find those. But apparently it was not such a hard task for me. The only problem was that every time I uncovered something it felt like Aurana knew about it already. 
+
+A test to prove my skills ? That thought has visited me more than once. But I kept going anyway, as  that was "the best job in the world" for me. 
+
+The first results came out pretty scary  - bio chemical tests, experiments on crops, malfunctioning robots, weapon test failures … shit, even the missing CORE crews were there.  All those events seemed to be pretty random, until I started to see the pattern.  
+
+Someone, or something, was orchestrating all these events for reasons unknown. Each "mystery" had someone important involved:  Usol, Soyuz, Terra Mater … even the CORE itself ! Like holy crap the stakes became really high.   
+
+But I did not drop out. At this point it was obvious that it was not my skills being tested, but rather my personality. I had to prove myself to my employers, and I had to know who they really were. 
+
+So I started working harder. Like really making myself invested in it. Not only because I had to, but because the stories were just exciting. Who would have thought … 
+
+With every story more questions were answered, but even more arose. 
+
+The Couplings - alien or just tempered with ? The guy that I have talked with did not have much to say, and that looked like a dead end, but he gave me some useful information which led to an understanding that it was a part of a seemingly failed "Razvedka" operation. Or maybe someone wanted it to look like that ?
+
+After that - the Astrocrop. Holy shit those guys. They have definitely made a deal with the devil himself, otherwise I do not know who could anyone do THAT kind of mad shit. 
+
+Looking for a cure ? Naah, more like testing more and new exotic ways to purge a population of a planet or an asteroid colony. Mixing that with religion and ideology made things even worse. I wonder why no one stopped them and what did CORE really know about all that  … 
+
+Next came "Project Artemis". CORE, again, developing weapons of mass annihilation, for peace and prosperity of course. I have found their r'n'd complex, but it was unreachable.  
+
+Add to that an audio log that clearly showed they have lost a "device" in transit … More reasons to be excited. 
+
+And finally, the famous "Sky Lift". Several points of view, lots of documents, witnesses confessions … and still nothing certain. All I got out of that was a certainty that it was not just an accident or a "coincidence" or whatever that was. All states that it was planned. By who - that is a really good question. 
+
+ 
+
+But all that effort did not go for nothing.  
+
+First of all - I now knew the location - Mars. Everything was connected with that. The REPNODE-M7 station which the ship bearing those couplings passed through,  The "Generational Farm" - a major Astrocrop farming complex,  The "Gobbler" outpost - a CORE weapons test site and finally, The Skylift itself. All of that was either on the planet or connected to it in a way.  
+
+And yes, those weird radio transmissions that bounced back and forth in space were seemingly originating from here as well, although I had no time to go through that at the time.
+
+But most importantly, after I have reported all that to Aurana, I felt … warmth coming from her. As like she was happy to acknowledge that she was not wrong with me. 
+
+Of course they knew about all that stuff, and my job seemed to be to basically get acquainted with the story, aside from testing my skills. But I did not mind. It probably was necessary for what would come next - it was decided that I had to take a ship to that REPNODE station to continue the investigation. It seemed that my employers were lacking a person they can trust, the one that will not back down.  And that was me. At that point I just made up my mind to get to the bottom of all that anyway. 
+
+The only mystery remained - who was I really working for. I did not ask directly, in hopes that they will tell me, but they did not until I boarded that ship … 
+
+ 
+
+I was hoping that the transit would be uneventful, as it was obvious that the continuation of the contract would take as much effort (if not more), but I guess my employers had other plans. 
+
+A "missing person" case got into my hands. A totally random person by the name of Vladimir Semakin that had found my "PI looking for a job" page on the CORIE job center contacted me to help him find a girl named Jean that had disappeared with somewhat threatening circumstances.  
+
+If only I knew … 
+
+That case led me to several new groups that I got myself somewhat close with:  the Gravers, the PALIMPEST and several other good guys (or not so good) which I can call my friends now. 
+
+And that girl, Jean Flanders, happened to be a daughter of the Exar-Solis CTO. A rebellious child that got to know too much and was in danger of getting herself used as a pawn in someone's game.  
+
+That someone happened to be mr. James "Jack" Curtis Fung.  A real ghost, finding whom took me a lot of effort, and after I did … well, let's say I owe one to a person that nobody would like to be owed to. 
+
+He is a threat, a very dangerous person, but as much as I hate to admit - could become a very useful asset. The only problem is that at this point I am his asset, and I have no clue what he would ask from me. 
+
+But, he was the person who helped me find the truth about Jean - she escaped and got herself a new life, the one with a purpose. She became someone else.  She became Aurana.  
+
+And that when I understood it all - my employers, my TRUE employers, Osiris corp, were looking for people that are not only skilled and strong willed, but share their ideals. 
+
+I have never thought much about it before, but finding the truth, whatever the cost, made me feel happy. This job gave me purpose in life, like it did to Aurana. And yes, Vladimir as well, as he was obviously one of them too. A recruiter actually who's task was to provide a 3rd party opinion on myself.  
+
+So here we are.  Landing at the REPNODE-M7 soon enough, as a CEDRT engineer in disguise to proceed with my journey. I feel like I am truly ready for it now.  I have my team, I have my skills and my connections.  All that remains are the right tools for the task. So that is where I'll start.
+
+Mars, finally got here. The journey itself was quite something. Might be worth writing a book about it at some point. 
+
+Aurana, Vladimir, Jake and so many other people I've met. The amount of events that happened in the past few months have been overwhelming. Sometimes I feel like an excited child that is making his first steps into the whole new world. But this world is quite dangerous, and there are certainly multiple people that would prefer that I did not poke my nose into their business right now.   
+
+Aurana is right though, I need to refresh my memory on the past events.  This would help me to move forward. The secrets of this planet did not go  anywhere and I feel that the circle is getting smaller.  
+
+I got here to uncover all those mysteries and that is what I would have to do, nothing changes.
