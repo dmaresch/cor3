@@ -1,3 +1,10 @@
+## 12th April
+```
+Start with the journal.  
+Open diary.txt to review recent events. Then check Messenger — Aurana is waiting for your response.
+```
+After leaving this ship and loading into the "new system".
+
 ## 27th March
 ```
 Check your messages — you've received a notification from the Silver Odyssey ship channel. Try visiting the portal link they sent.
