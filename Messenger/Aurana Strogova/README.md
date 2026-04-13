@@ -54,3 +54,15 @@ Player:
 
 This raises the systemVersion to `3.02` and thus unlocks the "Network Map" and "Loadout" tools on the taskbar.
 
+...
+
+Player: 
+> I've got the file. It was the only thing on the site, like it was specifically set up to share certain files.
+
+Aurana:
+> Okay. Were you able to open it?
+
+Player:
+> No, not really. It has a weird extension that requires specialized software it seems. Could you help with that?
+
+This grants 1500 credits.
