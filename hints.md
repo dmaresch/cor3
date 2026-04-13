@@ -1,5 +1,49 @@
 ## Act 3
 ```
+Next step: file decryption.
+Purchase the decryptor Cypher+ v1.4 in the Market, then install it via Loadout.
+After installation, use it to decrypt KRVA_BB.eb52x. Carefully review the file after decryption.
+
+Decryption principle:
+You need to assemble a valid combination using four parameters: Version, Method, Channel, and Cipher. Each parameter has several possible options, but only one correct combination will work.
+
+Enter your solution in the required format:
+[Version] [Method] [Channel] [Cipher]
+
+Start with any combination and submit it. If the attempt fails, use a step-by-step approach:
+
+— change only one parameter at a time to understand which values are correct
+— keep parameters that seem to work and continue testing the remaining ones
+— pay attention to patterns — some options may be more likely to match together
+— use your attempts wisely, do not change everything at once
+
+By narrowing down correct values one by one, you will eventually find the correct combination.
+```
+
+```
+New sections unlocked: Market, Job, and Loadout.
+Market allows the purchase of software and hardware. Purchases require credits and reputation.
+Job contains tasks involving server interaction. Completing them grants credits and reputation.
+Pay attention to mission objectives to avoid selecting tasks beyond your capabilities.
+Prioritize jobs that provide server access.
+Loadout is used to manage installed hardware and software. All purchased modules appear here.
+Power down the system before making changes.
+```
+After chatting with Aurana about the file.
+
+```
+Contact Aurana.
+Request instructions on how to decrypt KRVA_BB.eb52x.
+```
+After attempting to open the [KRVA_BB.eb52x](/KRVA_BB.eb52x.md) file.
+
+```
+A new file is available for download.
+Download KRVA_BB.eb52x from the site and open it.
+```
+After connecting to the server `RM7-E1L2CT` via [Network map](/Network%20map/).
+
+```
 New program available: Network Map.
 It visually displays nearby servers and allows route construction between them.
 By building routes, you can:
