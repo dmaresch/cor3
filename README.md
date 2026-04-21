@@ -1,6 +1,7 @@
 # [https://os.cor3.gg/](https://os.cor3.gg/)
 ARG related to the launch of cor3.gg
 
+> This repository is not affiliated with nor endorsed by Rant Gaming Studios&copy; or the developers behind cor3.gg.
 
 <details>
 <summary><h2>→ File index ←</h2></summary>
