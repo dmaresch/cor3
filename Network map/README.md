@@ -51,3 +51,19 @@ There could be additional conditions to access various assets on the Network, fo
 Connecting to `RM7-E1SCP` reveals the server `RM7-S4L4`.
 
 The server `RM7-E1SCP` has a file [sw12_Sec_Report_2341245.txt](/sw12_Sec_Report_2341245.txt.md), which can be downloaded. It is possible to obtain the IP address `855.528.0.4`, which reveals the servers `D4RK RM7CE`, `D4RK RM7MI` and `D4RK 2IV2`.
+
+## Important files
+### RM7-E1L2CT
+* [Email: From: Chris_Tong.txt](/Email%20From%20Chris_Tong.txt.md)
+* [Component_board_tx-71review.txt](/Component_board_tx-71review.txt)
+* [Mantis_drone_R4RD(TONG).png](/Mantis_drone_R4RD(TONG).png.jpg)
+
+### RM7-E1SCP
+* [sw12_Sec_Report_2341245.txt](/sw12_Sec_Report_2341245.txt.md)
+
+<details>
+<summary><h2>Technical notes</h2></summary>
+
+Story related files on servers have their `source` as `system`, while all the filler files/logs/addresses have their `source` as `generated`. Files/logs/addresses spawned by a job are coming from `job`, and finally files uploaded – or addresses added – as a part of a job have their `source` as `user`.
+
+</details>
