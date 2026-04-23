@@ -1,0 +1,1 @@
+document.querySelector('.Toastify__toast.Toastify__toast-theme--dark.Toastify__toast--default:has( > [data-component-name="Toast"] > [data-component-name="ContentWrapper"] > [data-component-name="ContentHeaderStyled"] > div.title)').style.display="none";

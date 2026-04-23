@@ -18,3 +18,9 @@ Fixes requests to english translation of the site to load the correct file. Run 
 ```js
 javascript:void%20function(){const%20a=window.fetch;window.fetch=(...b)=%3E(%22string%22==typeof%20b[0]%26%26(b[0]=b[0].replace(%22/en-US/browser.json%22,%22/en/browser.json%22),b[0]=b[0].replace(%22/en-US/translation.json%22,%22/en/translation.json%22)),a(...b))}()%3B
 ```
+
+### notification_yeet.js
+Run this script to hide the first notification that is currently visible on the screen - works best for hiding the "SYSTEM MESSAGE" that Forerunners have and can't get rid of.
+```js
+javascript:void%20function(){document.querySelector(%22.Toastify__toast.Toastify__toast-theme--dark.Toastify__toast--default:has(%20%3E%20[data-component-name=\%22Toast\%22]%20%3E%20[data-component-name=\%22ContentWrapper\%22]%20%3E%20[data-component-name=\%22ContentHeaderStyled\%22]%20%3E%20div.title)%22).style.display=%22none%22}()%3B
+```
