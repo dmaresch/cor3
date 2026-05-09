@@ -9,4 +9,7 @@
 | Occupancy | Management |
 | Rank | Vice-President |
 | User ID | {{0199c401-02be-73f7-986d-0a9b37c13f1f}} |
+| ID | FREEL_0199C401-02BE |
 | Account Status | Terminated |
+
+![](https://cdn.cor3.gg/corie/characters/avatars/simon_burke_avatar.png)

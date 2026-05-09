@@ -9,4 +9,7 @@
 | Occupancy | Ring 5 |
 | Rank | Overseer |
 | User ID | {{0199c401-188b-7aec-98b0-5fd541e55642}} |
+| ID | FREEL_0199C401-188B |
 | Account Status | Terminated |
+
+![](https://cdn.cor3.gg/corie/characters/avatars/magnus_vervortessen_avatar.png)
