@@ -73,29 +73,29 @@ Connecting to `RM7-E1L3` reveals the server `RM7-N2ECP`, which in turn reveals a
 * [sw12_Sec_Report_2341245.txt](/sw12_Sec_Report_2341245.txt.md)
 
 ## Server information
-| Server Name | Faction | Owner| Transit | Type | Cluster | IP | Defence Rate | Color | Market |
-|-------------|---------|------|---------|------|---------|----|--------------|-------|--------|
-| Home Server | Home | Player | public | Home | Home | 855.529.0.2 | 0 | `#A8F87F` | Yes |
-| RM7-E1L3 | CEDRT | COR3 | public | CEDRT public | REPNODE-M7 East | 855.529.1.3 | 5 | `#D5DECB` |  |
-| RM7-E1L5 | CEDRT | COR3 | public | CEDRT public | REPNODE-M7 East | 855.529.1.5 | 5 | `#D5DECB` |  |
-| RM7-S4L4 | CEDRT | COR3 | public | CEDRT public | REPNODE-M7 South | 855.529.2.4 | 5 | `#D5DECB` |  |
-| RM7-N2L2 | CEDRT | COR3 | public | CEDRT public | REPNODE-M7 North | 855.529.4.2 | 13 | `#D5DECB` |  |
-| RM7-N2L3 | CEDRT | COR3 | public | CEDRT public | REPNODE-M7 North | 855.529.4.3 | 12 | `#D5DECB` |  |
-| RM7-W3L2 | CEDRT | COR3 | public | CEDRT public | REPNODE-M7 West | 855.529.3.2 | 15 | `#D5DECB` |  |
-| RM7-N1L1 | CEDRT | COR3 | public | CEDRT public | REPNODE-M7 North | 855.529.4.1 | 13 | `#D5DECB` |  |
-| RM7-E1SCP |  |  | private | CEDRT private |  | 855.529.1.2 | 12 | `#D5DECB` |  |
-| RM7-N2ECP |  |  | private | CEDRT private |  | 855.529.4.13 | 12 | `#D5DECB` |  |
-| RM7-W3NCP |  |  | private | CEDRT private |  | 855.529.3.7 | 13 | `#D5DECB` |  |
-| RM7-E1L2CT | CEDRT |  | private | CEDRT private | REPNODE-M7 East | 855.529.1.13 | 7 | `#D5DECB` |  |
-| D4RK RM7CE |  |  | public | D4RK T4 |  | 855.528.0.4 | 15 | `#4B4B4B` |  |
-| D4RK RM7MI |  |  | public | D4RK T4 |  | 855.528.0.12 | 15 | `#4B4B4B` | Yes |
-| D4RK 2IV2 |  |  | restricted | D4RK 2IV |  | 855.528.0.2 | 22 | `#4B4B4B` |  |
-| SRM7-N3L1 | SOYUZ | SOYUZ | public | SOYUZ public | SOYUZ RM7 North | 855.529.4.6 | 12 | `#FE4949` |  |
-| SRM7-M | SOYUZ | SOYUZ | public | SOYUZ public | SOYUZ RM7 North | 855.529.4.10 | 24 | `#FE4949` | Yes |
-| SRM7-N3L2 | SOYUZ | SOYUZ | public | SOYUZ public | SOYUZ RM7 North | 855.529.4.17 | 16 | `#FE4949` |  |
-| SRM7-N4L2 | SOYUZ | SOYUZ | public | SOYUZ public | SOYUZ RM7 North | 855.529.4.8 | 18 | `#FE4949` |  |
-| SPRM7-N4L3 |  |  | private | SOYUZ private |  | 855.529.4.14 | 16 | `#FE4949` |  |
-| SRRM7 |  |  | restricted | 17M23GS |  | 852.530.1.1 | 38 | `#FE4949` |  |
+| Server Name | Faction | Owner| Transit | Type | Cluster | Location  | IP | Color | Market | Defence Rate |
+|-------------|---------|------|---------|------|---------|-----------|----|-------|--------|--------------|
+| Home&nbsp;Server | Home | Player | public | Home | Home |  | 855.529.0.2 | 🟢 `#A8F87F` | Yes | 0 |
+| RM7-E1L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 East | REPNODE-M7&nbsp;deck&nbsp;2-25 | 855.529.1.3 | ⚪ `#D5DECB` |  | 5 |
+| RM7-E1L5 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 East | REPNODE-M7&nbsp;deck&nbsp;1-8 | 855.529.1.5 | ⚪ `#D5DECB` |  | 5 |
+| RM7-S4L4 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 South | REPNODE-M7&nbsp;deck&nbsp;2-17 | 855.529.2.4 | ⚪ `#D5DECB` |  | 5 |
+| RM7-N2L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-16 | 855.529.4.2 | ⚪ `#D5DECB` |  | 13 |
+| RM7-N2L3 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-8 | 855.529.4.3 | ⚪ `#D5DECB` |  | 12 |
+| RM7-W3L2 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 West |  | 855.529.3.2 | ⚪ `#D5DECB` |  | 15 |
+| RM7-N1L1 | CEDRT | COR3 | public | CEDRT&nbsp;public | REPNODE-M7 North | REPNODE-M7&nbsp;deck&nbsp;4-1 | 855.529.4.1 | ⚪ `#D5DECB` |  | 13 |
+| RM7-E1SCP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.1.2 | ⚪ `#D5DECB` |  | 12 |
+| RM7-N2ECP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.4.13 | ⚪ `#D5DECB` |  | 12 |
+| RM7-W3NCP |  |  | private | CEDRT&nbsp;private |  |  | 855.529.3.7 | ⚪ `#D5DECB` |  | 13 |
+| RM7-E1L2CT | CEDRT |  | private | CEDRT&nbsp;private | REPNODE-M7 East |  | 855.529.1.13 | ⚪ `#D5DECB` |  | 7 |
+| D4RK&nbsp;RM7CE |  |  | public | D4RK&nbsp;T4 |  |  | 855.528.0.4 | ⚫ `#4B4B4B` |  | 15 |
+| D4RK&nbsp;RM7MI |  |  | public | D4RK&nbsp;T4 |  |  | 855.528.0.12 | ⚫ `#4B4B4B` | Yes | 15 |
+| D4RK&nbsp;2IV2 |  |  | restricted | D4RK&nbsp;2IV |  |  | 855.528.0.2 | ⚫ `#4B4B4B` |  | 22 |
+| SRM7-N3L1 | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North |  | 855.529.4.6 | 🔴 `#FE4949` |  | 12 |
+| SRM7-M | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North |  | 855.529.4.10 | 🔴 `#FE4949` | Yes | 24 |
+| SRM7-N3L2 | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North |  | 855.529.4.17 | 🔴 `#FE4949` |  | 16 |
+| SRM7-N4L2 | SOYUZ | SOYUZ | public | SOYUZ&nbsp;public | SOYUZ RM7 North |  | 855.529.4.8 | 🔴 `#FE4949` |  | 18 |
+| SPRM7-N4L3 |  |  | private | SOYUZ&nbsp;private |  |  | 855.529.4.14 | 🔴 `#FE4949` |  | 16 |
+| SRRM7 |  |  | restricted | 17M23GS |  |  | 852.530.1.1 | 🔴 `#FE4949` |  | 38 |
 
 ## Defense rates
 * 0
