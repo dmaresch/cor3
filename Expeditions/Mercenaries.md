@@ -1,0 +1,23 @@
+# Mercenaries
+All current possible mercenary faces:
+
+![21](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_21.png)
+![22](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_22.png)
+![23](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_23.png)
+![24](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_24.png)
+![25](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_25.png)
+![26](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_26.png)
+![27](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_27.png)
+![28](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_28.png)
+![29](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_29.png)
+![30](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_30.png)
+![31](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_31.png)
+![32](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_32.png)
+![33](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_33.png)
+![34](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_34.png)
+![35](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_35.png)
+![36](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_36.png)
+![37](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_37.png)
+![38](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_38.png)
+![39](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_39.png)
+![40](https://cdn.cor3.gg/corie/expeditions/mercenaries/expeditions_mercenary_40.png)
