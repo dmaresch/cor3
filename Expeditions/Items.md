@@ -1,5 +1,9 @@
 # Items
 
+List of all items currently in the game and obtainable from expeditions.
+
+Click the item's image to view its full resolution.
+
 | Image | Name | Description | Type | Category | Tier | Base Value | Can Sell | Can Use | Can Craft | Max Stack | Item Config ID |
 |-------|------|-------------|------|----------|------|------------|:--------:|:-------:|:---------:|-----------|----------------|
 | ![](https://cdn.cor3.gg/corie/expeditions/expeditions_artificial_milk.png) | Artificial milk | Lab-grown synthetic milk in aseptic carton. Matches cow milk nutrition - protein, fats, carbs - via precision fermentation; 48-month ambient shelf life. Neutral taste, no allergens, for extended field rations. | ITEM | Consumables Food | RARE | 1174 | ✅ | ❌ | ❌ | 1 | 019d719f-84f4-7c43-94f6-4d3fca8ddd6f |
