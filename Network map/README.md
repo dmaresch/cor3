@@ -32,6 +32,7 @@ flowchart LR
 019da6f1-16f7-75a6-b6d3-0b1d5f92a102 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a101
 019da6f1-16f7-75a6-b6d3-0b1d5f92a103 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a106
 019da6f1-16f7-75a6-b6d3-0b1d5f92a104 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a106
+019da6f1-16f7-75a6-b6d3-0b1d5f92a104 -.- 019da6f1-16f7-75a6-b6d3-0b1d5f92a105
 019da6f1-16f7-75a6-b6d3-0b1d5f92a104 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a107
 019da6f1-16f7-75a6-b6d3-0b1d5f92a102 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a106
 019d1b0a-13a9-77dd-b41f-3a21d490cb2d -.- 019d29c5-4b37-7436-aef9-89af09560af3
@@ -42,6 +43,7 @@ flowchart LR
 019da6f1-16f7-75a6-b6d3-0b1d5f92a107 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a108
 019da6f1-16f7-75a6-b6d3-0b1d5f92a108 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a109
 019da6f1-16f7-75a6-b6d3-0b1d5f92a109 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a10c
+019da6f1-16f7-75a6-b6d3-0b1d5f92a109 -.- 019da6f1-16f7-75a6-b6d3-0b1d5f92a101
 019da6f1-16f7-75a6-b6d3-0b1d5f92a10a --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a10b
 ```
 
@@ -62,6 +64,8 @@ Connecting to `RM7-E1SCP` reveals the server `RM7-S4L4`.
 The server `RM7-E1SCP` has a file [sw12_Sec_Report_2341245.txt](/sw12_Sec_Report_2341245.txt.md), which can be downloaded. It is possible to obtain the IP address `855.528.0.4`, which reveals the servers `D4RK RM7CE`, `D4RK RM7MI` and `D4RK 2IV2`.
 
 Connecting to `RM7-E1L3` reveals the server `RM7-N2ECP`, which in turn reveals all the further servers situated in the branch, including Soyuz servers: `RM7-N2L2`, `RM7-N2L3`, `RM7-W3NCP`, `RM7-W3L2`, `RM7-N1L1`, `SRM7-N3L1`, `SRM7-N4L2`, `SPRM7-N4L3`, `SRM7-M`, `SRM7-N3L2`, `SRRM7`.
+
+A hidden connection between `RM7-N1L1` and `RM7-N2ECP` can be revealed by searching the IP address of either of the servers: `855.529.4.1` or `855.529.4.13`. The hidden connection between `SRM7-N3L2` and `RM7-N2L2` is revealed in the same fashion, by searching either `855.529.4.17` or `855.529.4.2`.
 
 ## Important files
 ### RM7-E1L2CT
