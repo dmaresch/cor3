@@ -50,6 +50,7 @@
 | Name            | Market    | Market Price | Required Reputation | Hack Power | Server Types                | Manufacturer | Tier |
 | --------------- | --------- | ------------ | ------------------- | ---------- | --------------------------- | ------------ | ---- |
 | Porter-lite r4  | CORE      | 13,225       | 2                   | 6–17       | CEDRT public, CEDRT private | GridWorks    | 1    |
+| RE-nova v3.0    | CORE      | 15,755       | 2                   | 10–35      | EMERMODE                    | CORIE        | 2    |
 | H0pp3R ced/p 03 | BMI-ZEN   | 97,890       | 4                   | 12–26      | CEDRT public                | mr.droid     | 3    |
 | A/Bver 410      | SOYUZ RM7 | 44,640       | 2                   | 12–26      | SOYUZ public                | VolgaSoft    | 3    |
 
@@ -60,6 +61,7 @@
 | Name            | Market    | Market Price | Required Reputation | Search Power | Server Types                                   | Manufacturer | Tier |
 | --------------- | --------- | ------------ | ------------------- | ------------ | ---------------------------------------------- | ------------ | ---- |
 | Seeker-IV v0.6  | CORE      | 10,580       | 1                   | 4–18         | CEDRT public, CEDRT private                    | CORIE        | 1    |
+| RE-nova v3.0    | CORE      | 15,755       | 2                   | 5–28         | EMERMODE                                       | CORIE        | 2    |
 | L8K TRG 02      | BMI-ZEN   | 19,240       | 1                   | 7–28         | CEDRT public, CEDRT private, D4RK T4, D4RK 2IV | mr.droid     | 2    |
 | H0pp3R ced/p 03 | BMI-ZEN   | 97,890       | 4                   | 2–12         | CEDRT public                                   | mr.droid     | 3    |
 | A/Bver 410      | SOYUZ RM7 | 44,640       | 2                   | 6–22         | SOYUZ public                                   | VolgaSoft    | 3    |
