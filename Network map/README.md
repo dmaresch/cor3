@@ -138,6 +138,6 @@ A hidden connection between `RM7-N1L1` and `RM7-N2ECP` can be revealed by search
 <details>
 <summary><h2>Technical notes</h2></summary>
 
-Story related files on servers have their `source` as `system`, while all the filler files/logs/addresses have their `source` as `generated`. Files/logs/addresses spawned by a job are coming from `job`, and finally files uploaded – or addresses added – by the player as a part of a job have their `source` as `user`.
+Story related files on servers have their `source` as `system`, while all the filler files/logs/addresses have their `source` as `generated`. Files/logs/addresses spawned by a job are coming from `job`, and finally files uploaded – or addresses added – by the player as a part of a job have their `source` as `user` or `job`.
 
 </details>
